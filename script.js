@@ -93,6 +93,22 @@ function findPokemon() {
         !(p.height_m === userHeight && p.weight_kg === userWeight)
     );
 
+    // Sort partial matches based on the closest unmatched attribute
+    partialMatches.sort((a, b) => {
+        // If height matches, sort by the difference in weight
+        if (a.height_m === userHeight && b.height_m === userHeight) {
+            return Math.abs(a.weight_kg - userWeight) - Math.abs(b.weight_kg - userWeight);
+        }
+        // If weight matches, sort by the difference in height
+        if (a.weight_kg === userWeight && b.weight_kg === userWeight) {
+            return Math.abs(a.height_m - userHeight) - Math.abs(b.height_m - userHeight);
+        }
+        // Default sorting if both height and weight do not match
+        let diffA = Math.abs(a.height_m - userHeight) + Math.abs(a.weight_kg - userWeight);
+        let diffB = Math.abs(b.height_m - userHeight) + Math.abs(b.weight_kg - userWeight);
+        return diffA - diffB;
+    });
+
     // Find closest matches based on height and weight differences
     let closestMatches = [];
 
