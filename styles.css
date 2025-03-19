@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #f4f4f4;
     text-align: center;
     margin: 0;
@@ -9,9 +9,9 @@ body {
 .container {
     background: white;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 4px;
     width: 90%;
-    max-width: 400px;
+    max-width: 100%;
     margin: 50px auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
@@ -29,10 +29,10 @@ label {
 }
 
 input, select, button {
-    width: calc(100% - 20px); /* Add padding around input fields */
+    width: calc(100% - 20px);
     padding: 10px;
-    margin: 5px 0 10px; /* Add spacing between elements */
-    border-radius: 5px;
+    margin: 5px 0 10px;
+    border-radius: 4px;
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
@@ -51,16 +51,50 @@ button:hover {
     background: #0056b3;
 }
 
+#result{
+    width: calc(100% - 20px);
+    display: none;
+    flex-direction: column;
+}
+
 .result-container {
-    margin-top: 20px;
     padding: 15px;
     background: #fff;
-    border-radius: 8px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
     text-align: left;
 }
 
 .result-container p {
     margin: 10px 0;
     font-size: 14px;
+}
+
+#exact-match, #partial-match, #close-match {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
+}
+
+.pokemon-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.pokemon-card img {
+    width: 150px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.pokemon-card h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.pokemon-card p {
+    margin: 5px 0;
 }

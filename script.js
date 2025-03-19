@@ -1,8 +1,41 @@
-const pokemonData = [
-    { name: "Bulbasaur", type: "Grass Poison", height_ft: "2′04″", height_m: 0.7, weight_lbs: 15.2, weight_kg: 6.9, bmi: 14.1 },
-    { name: "Ivysaur", type: "Grass Poison", height_ft: "3′03″", height_m: 1.0, weight_lbs: 28.7, weight_kg: 13, bmi: 13 },
-    { name: "Venusaur", type: "Grass Poison", height_ft: "6′07″", height_m: 2.0, weight_lbs: 220.5, weight_kg: 100, bmi: 25 }
-];
+let pokemonData = [];
+
+// Fetch CSV
+fetch('https://raw.githubusercontent.com/JihunKimCode/pokeSize/refs/heads/main/BMI.csv')
+    .then(response => response.text())
+    .then(csvData => {
+        pokemonData = parseCSV(csvData);
+    })
+    .catch(error => console.error("Error fetching CSV:", error));
+
+// Parse CSV data into an array of objects
+function parseCSV(csv) {
+    const lines = csv.split("\n");
+    const headers = lines[0].split(",");
+    const data = [];
+
+    for (let i = 1; i < lines.length; i++) {
+        const row = lines[i].split(",");
+        if (row.length === headers.length) {
+            const pokemon = {};
+            for (let j = 0; j < headers.length; j++) {
+                pokemon[headers[j].trim()] = row[j].trim();
+            }
+            data.push(pokemon);
+        }
+    }
+
+    return data.map(pokemon => ({
+        number: pokemon['#'],
+        name: pokemon['Name'],
+        type: pokemon['Type'],
+        height_ft: pokemon['Height (ft)'],
+        height_m: parseFloat(pokemon['Height (m)']),
+        weight_lbs: parseFloat(pokemon['Weight (lbs)']),
+        weight_kg: parseFloat(pokemon['Weight (kgs)']),
+        bmi: parseFloat(pokemon['BMI']),
+    }));
+}
 
 document.getElementById("unit").addEventListener("change", function() {
     let unit = this.value;
@@ -44,13 +77,16 @@ function findPokemon() {
         }
     }
 
-    let exactMatch = pokemonData.find(p => p.height_m === userHeight && p.weight_kg === userWeight);
-    let heightMatch = pokemonData.find(p => p.height_m === userHeight);
-    let weightMatch = pokemonData.find(p => p.weight_kg === userWeight);
-
+    // Find exact matches
+    let exactMatches = pokemonData.filter(p => p.height_m === userHeight && p.weight_kg === userWeight);
+    
+    // Find partial matches
+    let partialMatches = pokemonData.filter(p => p.height_m === userHeight || p.weight_kg === userWeight);
+    
+    // Find closest matches based on height and weight differences
     let minDifference = Infinity;
     let closestMatches = [];
-
+    
     pokemonData.forEach(p => {
         let diff = Math.abs(p.height_m - userHeight) + Math.abs(p.weight_kg - userWeight);
         if (diff < minDifference) {
@@ -61,19 +97,49 @@ function findPokemon() {
         }
     });
 
-    let resultDiv = document.getElementById("result");
-    resultDiv.innerHTML = "";
-    resultDiv.style.display = "block";
+    const result = document.getElementById("result");
+    result.style.display = "inline-flex";
+        
+    let emDiv = document.getElementById("exact-match");
+    let pmDiv = document.getElementById("partial-match");
+    let cmDiv = document.getElementById("close-match");
+    emDiv.innerHTML = "";
+    pmDiv.innerHTML = "";
+    cmDiv.innerHTML = "";
 
-    if (exactMatch) {
-        resultDiv.innerHTML = `<p><b>Exact Match:</b> ${exactMatch.name} (${exactMatch.type}) - Height: ${exactMatch.height_ft} (${exactMatch.height_m}m), Weight: ${exactMatch.weight_lbs} lbs (${exactMatch.weight_kg} kg), BMI: ${exactMatch.bmi}</p>`;
-    } else if (heightMatch || weightMatch) {
-        let match = heightMatch || weightMatch;
-        resultDiv.innerHTML = `<p><b>Partial Match:</b> ${match.name} (${match.type}) - Height: ${match.height_ft} (${match.height_m}m), Weight: ${match.weight_lbs} lbs (${match.weight_kg} kg), BMI: ${match.bmi}</p>`;
-    } else {
-        resultDiv.innerHTML = `<p><b>Closest Match(es):</b></p>`;
-        closestMatches.forEach(p => {
-            resultDiv.innerHTML += `<p>${p.name} (${p.type}) - Height: ${p.height_ft} (${p.height_m}m), Weight: ${p.weight_lbs} lbs (${p.weight_kg} kg), BMI: ${p.bmi}</p>`;
+    // Show exact matches
+    if (exactMatches.length > 0) {
+        exactMatches.forEach(p => {
+            emDiv.innerHTML += generatePokemonCard(p);
         });
     }
+
+    // Show partial matches
+    if (partialMatches.length > 0) {
+        partialMatches.forEach(p => {
+            pmDiv.innerHTML += generatePokemonCard(p);
+        });
+    }
+
+    // Show closest matches
+    if (closestMatches.length > 0) {
+        closestMatches.forEach(p => {
+            cmDiv.innerHTML += generatePokemonCard(p);
+        });
+    }
+}
+
+// Function to generate HTML for each Pokémon card
+function generatePokemonCard(pokemon) {
+    const imgUrl = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${pokemon.number}.png`;
+    return `
+        <div class="pokemon-card">
+            <img src="${imgUrl}" alt="${pokemon.name}">
+            <h3>${pokemon.name}</h3>
+            <p><b>Type</b>: ${pokemon.type}</p>
+            <p><b>Height</b>: ${pokemon.height_ft} ft (${pokemon.height_m} m)</p>
+            <p><b>Weight</b>: ${pokemon.weight_lbs} lbs (${pokemon.weight_kg} kg)</p>
+            <p><b>BMI</b>: ${pokemon.bmi}</p>
+        </div>
+    `;
 }

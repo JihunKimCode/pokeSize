@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokémon Height & Weight Matcher</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">    
 </head>
 <body>
-
     <div class="container">
-        <h1>Find Your Matching Pokémon</h1>
+        <h1>Find Your Pokémon</h1>
         
         <label for="unit">Select Unit:</label>
         <select id="unit">
@@ -34,7 +34,14 @@
 
         <button onclick="findPokemon()">Search</button>
 
-        <div id="result" class="result-container" style="display: none;"></div>
+        <div id="result">
+            <div class="pokemon-card"><b>Exact Match(es):</b></div>
+            <div id="exact-match" class="result-container"></div>
+            <div class="pokemon-card"><b>Partial Match(es):</b></div>
+            <div id="partial-match" class="result-container"></div>
+            <div class="pokemon-card"><b>Closest Match(es):</b></div>
+            <div id="close-match" class="result-container"></div>
+        </div>
     </div>
 
     <script src="script.js"></script>
