@@ -36,12 +36,12 @@
         <button onclick="findPokemon()">Search</button>
 
         <div id="result">
-            <div class="pokemon-card"><b>Exact Match(es):</b></div>
-            <div id="exact-match" class="result-container"></div>
-            <div class="pokemon-card"><b>Partial Match(es):</b></div>
-            <div id="partial-match" class="result-container"></div>
-            <div class="pokemon-card"><b>Closest Match(es):</b></div>
+            <div class="match-label" onclick="toggleVisibility('close-match')"><b>Closest Match</b></div>
             <div id="close-match" class="result-container"></div>
+            <div class="match-label" onclick="toggleVisibility('exact-match')"><b>Exact Match</b></div>
+            <div id="exact-match" class="result-container"></div>
+            <div class="match-label" onclick="toggleVisibility('partial-match')"><b>Partial Match</b></div>
+            <div id="partial-match" class="result-container"></div>
         </div>
     </div>
 
