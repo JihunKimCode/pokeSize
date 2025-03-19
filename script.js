@@ -87,8 +87,11 @@ function findPokemon() {
     // Find exact matches
     let exactMatches = pokemonData.filter(p => p.height_m === userHeight && p.weight_kg === userWeight);
 
-    // Find partial matches
-    let partialMatches = pokemonData.filter(p => p.height_m === userHeight || p.weight_kg === userWeight);
+    // Find partial matches, excluding exact matches
+    let partialMatches = pokemonData.filter(p => 
+        (p.height_m === userHeight || p.weight_kg === userWeight) && 
+        !(p.height_m === userHeight && p.weight_kg === userWeight)
+    );
 
     // Find closest matches based on height and weight differences
     let closestMatches = [];
