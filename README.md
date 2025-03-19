@@ -1,4 +1,4 @@
-# [pokeSize](https://jihunkimcode.github.io/pokeSize/)
+# [PokéSize](https://jihunkimcode.github.io/pokeSize/)
 Find Pokémon with an exact, partial, or closest match for height and weight.
 
 ## Feature
