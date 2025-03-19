@@ -51,6 +51,13 @@ function convertPoundsToKg(pounds) {
     return pounds * 0.453592;
 }
 
+// Trigger the search when Enter is pressed
+document.body.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        findPokemon();
+    }
+});
+
 function findPokemon() {
     let unit = document.getElementById("unit").value;
     let userHeight, userWeight;
@@ -79,23 +86,39 @@ function findPokemon() {
 
     // Find exact matches
     let exactMatches = pokemonData.filter(p => p.height_m === userHeight && p.weight_kg === userWeight);
-    
+
     // Find partial matches
     let partialMatches = pokemonData.filter(p => p.height_m === userHeight || p.weight_kg === userWeight);
-    
+
     // Find closest matches based on height and weight differences
-    let minDifference = Infinity;
     let closestMatches = [];
-    
-    pokemonData.forEach(p => {
-        let diff = Math.abs(p.height_m - userHeight) + Math.abs(p.weight_kg - userWeight);
-        if (diff < minDifference) {
-            minDifference = diff;
-            closestMatches = [p];
-        } else if (diff === minDifference) {
-            closestMatches.push(p);
+
+    // Function to add a Pokémon to the closest matches list
+    function addToClosestMatches(pokemon) {
+        // Exclude Pokémon that are already in exactMatches or partialMatches
+        if (exactMatches.includes(pokemon) || partialMatches.includes(pokemon)) {
+            return; // Skip this Pokémon
         }
-    });
+
+        // Add the Pokémon to the list
+        closestMatches.push(pokemon);
+
+        // Sort by the sum of absolute differences (height + weight)
+        closestMatches.sort((a, b) => {
+            let diffA = Math.abs(a.height_m - userHeight) + Math.abs(a.weight_kg - userWeight);
+            let diffB = Math.abs(b.height_m - userHeight) + Math.abs(b.weight_kg - userWeight);
+            return diffA - diffB;
+        });
+
+        // Keep only the top 10 closest matches
+        if (closestMatches.length > 10) {
+            closestMatches.pop();  // Remove the Pokémon with the largest difference
+        }
+    }
+
+    // Iterate over all Pokémon and update closest matches
+    pokemonData.forEach(p => addToClosestMatches(p));
+
 
     const result = document.getElementById("result");
     result.style.display = "inline-flex";
