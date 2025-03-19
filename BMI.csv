@@ -1,0 +1,1215 @@
+﻿#,Name,Type,Height (ft),Height (m),Weight (lbs),Weight (kgs),BMI
+1,Bulbasaur,Grass Poison,2′04″,0.7,15.2,6.9,14.1
+2,Ivysaur,Grass Poison,3′03″,1,28.7,13,13
+3,Venusaur,Grass Poison,6′07″,2,220.5,100,25
+3,Venusaur Mega Venusaur,Grass Poison,7′10″,2.4,342.8,155.5,27
+4,Charmander,Fire,2′00″,0.6,18.7,8.5,23.6
+5,Charmeleon,Fire,3′07″,1.1,41.9,19,15.7
+6,Charizard,Fire Flying,5′07″,1.7,199.5,90.5,31.3
+6,Charizard Mega Charizard X,Fire Dragon,5′07″,1.7,243.6,110.5,38.2
+6,Charizard Mega Charizard Y,Fire Flying,5′07″,1.7,221.6,100.5,34.8
+7,Squirtle,Water,1′08″,0.5,19.8,9,36
+8,Wartortle,Water,3′03″,1,49.6,22.5,22.5
+9,Blastoise,Water,5′03″,1.6,188.5,85.5,33.4
+9,Blastoise Mega Blastoise,Water,5′03″,1.6,222.9,101.1,39.5
+10,Caterpie,Bug,1′00″,0.3,6.4,2.9,32.2
+11,Metapod,Bug,2′04″,0.7,21.8,9.9,20.2
+12,Butterfree,Bug Flying,3′07″,1.1,70.5,32,26.4
+13,Weedle,Bug Poison,1′00″,0.3,7.1,3.2,35.6
+14,Kakuna,Bug Poison,2′00″,0.6,22,10,27.8
+15,Beedrill,Bug Poison,3′03″,1,65,29.5,29.5
+15,Beedrill Mega Beedrill,Bug Poison,4′07″,1.4,89.3,40.5,20.7
+16,Pidgey,Normal Flying,1′00″,0.3,4,1.8,20
+17,Pidgeotto,Normal Flying,3′07″,1.1,66.1,30,24.8
+18,Pidgeot,Normal Flying,4′11″,1.5,87.1,39.5,17.6
+18,Pidgeot Mega Pidgeot,Normal Flying,7′03″,2.2,111.3,50.5,10.4
+19,Rattata,Normal,1′00″,0.3,7.7,3.5,38.9
+19,Rattata Alolan Rattata,Dark Normal,1′00″,0.3,8.4,3.8,42.2
+20,Raticate,Normal,2′04″,0.7,40.8,18.5,37.8
+20,Raticate Alolan Raticate,Dark Normal,2′04″,0.7,56.2,25.5,52
+21,Spearow,Normal Flying,1′00″,0.3,4.4,2,22.2
+22,Fearow,Normal Flying,3′11″,1.2,83.8,38,26.4
+23,Ekans,Poison,6′07″,2,15.2,6.9,1.7
+24,Arbok,Poison,11′06″,3.5,143.3,65,5.3
+25,Pikachu,Electric,1′04″,0.4,13.2,6,37.5
+25,Pikachu Partner Pikachu,Electric,1′04″,0.4,13.2,6,37.5
+26,Raichu,Electric,2′07″,0.8,66.1,30,46.9
+26,Raichu Alolan Raichu,Electric Psychic,2′04″,0.7,46.3,21,42.9
+27,Sandshrew,Ground,2′00″,0.6,26.5,12,33.3
+27,Sandshrew Alolan Sandshrew,Ice Steel,2′04″,0.7,88.2,40,81.6
+28,Sandslash,Ground,3′03″,1,65,29.5,29.5
+28,Sandslash Alolan Sandslash,Ice Steel,3′11″,1.2,121.3,55,38.2
+29,Nidoran♀,Poison,1′04″,0.4,15.4,7,43.8
+30,Nidorina,Poison,2′07″,0.8,44.1,20,31.3
+31,Nidoqueen,Poison Ground,4′03″,1.3,132.3,60,35.5
+32,Nidoran♂,Poison,1′08″,0.5,19.8,9,36
+33,Nidorino,Poison,2′11″,0.9,43,19.5,24.1
+34,Nidoking,Poison Ground,4′07″,1.4,136.7,62,31.6
+35,Clefairy,Fairy,2′00″,0.6,16.5,7.5,20.8
+36,Clefable,Fairy,4′03″,1.3,88.2,40,23.7
+37,Vulpix,Fire,2′00″,0.6,21.8,9.9,27.5
+37,Vulpix Alolan Vulpix,Ice,2′00″,0.6,21.8,9.9,27.5
+38,Ninetales,Fire,3′07″,1.1,43.9,19.9,16.4
+38,Ninetales Alolan Ninetales,Ice Fairy,3′07″,1.1,43.9,19.9,16.4
+39,Jigglypuff,Normal Fairy,1′08″,0.5,12.1,5.5,22
+40,Wigglytuff,Normal Fairy,3′03″,1,26.5,12,12
+41,Zubat,Poison Flying,2′07″,0.8,16.5,7.5,11.7
+42,Golbat,Poison Flying,5′03″,1.6,121.3,55,21.5
+43,Oddish,Grass Poison,1′08″,0.5,11.9,5.4,21.6
+44,Gloom,Grass Poison,2′07″,0.8,19,8.6,13.4
+45,Vileplume,Grass Poison,3′11″,1.2,41,18.6,12.9
+46,Paras,Bug Grass,1′00″,0.3,11.9,5.4,60
+47,Parasect,Bug Grass,3′03″,1,65,29.5,29.5
+48,Venonat,Bug Poison,3′03″,1,66.1,30,30
+49,Venomoth,Bug Poison,4′11″,1.5,27.6,12.5,5.6
+50,Diglett,Ground,0′08″,0.2,1.8,0.8,20
+50,Diglett Alolan Diglett,Ground Steel,0′08″,0.2,2.2,1,25
+51,Dugtrio,Ground,2′04″,0.7,73.4,33.3,68
+51,Dugtrio Alolan Dugtrio,Ground Steel,2′04″,0.7,146.8,66.6,135.9
+52,Meowth,Normal,1′04″,0.4,9.3,4.2,26.3
+52,Meowth Alolan Meowth,Dark,1′04″,0.4,9.3,4.2,26.3
+52,Meowth Galarian Meowth,Steel,1′04″,0.4,16.5,7.5,46.9
+53,Persian,Normal,3′03″,1,70.5,32,32
+53,Persian Alolan Persian,Dark,3′07″,1.1,72.8,33,27.3
+54,Psyduck,Water,2′07″,0.8,43.2,19.6,30.6
+55,Golduck,Water,5′07″,1.7,168.9,76.6,26.5
+56,Mankey,Fighting,1′08″,0.5,61.7,28,112
+57,Primeape,Fighting,3′03″,1,70.5,32,32
+58,Growlithe,Fire,2′04″,0.7,41.9,19,38.8
+58,Growlithe Hisuian Growlithe,Fire Rock,2′07″,0.8,50,22.7,35.5
+59,Arcanine,Fire,6′03″,1.9,341.7,155,42.9
+59,Arcanine Hisuian Arcanine,Fire Rock,6′07″,2,370.4,168,42
+60,Poliwag,Water,2′00″,0.6,27.3,12.4,34.4
+61,Poliwhirl,Water,3′03″,1,44.1,20,20
+62,Poliwrath,Water Fighting,4′03″,1.3,119,54,32
+63,Abra,Psychic,2′11″,0.9,43,19.5,24.1
+64,Kadabra,Psychic,4′03″,1.3,124.6,56.5,33.4
+65,Alakazam,Psychic,4′11″,1.5,105.8,48,21.3
+65,Alakazam Mega Alakazam,Psychic,3′11″,1.2,105.8,48,33.3
+66,Machop,Fighting,2′07″,0.8,43,19.5,30.5
+67,Machoke,Fighting,4′11″,1.5,155.4,70.5,31.3
+68,Machamp,Fighting,5′03″,1.6,286.6,130,50.8
+69,Bellsprout,Grass Poison,2′04″,0.7,8.8,4,8.2
+70,Weepinbell,Grass Poison,3′03″,1,14.1,6.4,6.4
+71,Victreebel,Grass Poison,5′07″,1.7,34.2,15.5,5.4
+72,Tentacool,Water Poison,2′11″,0.9,100.3,45.5,56.2
+73,Tentacruel,Water Poison,5′03″,1.6,121.3,55,21.5
+74,Geodude,Rock Ground,1′04″,0.4,44.1,20,125
+74,Geodude Alolan Geodude,Rock Electric,1′04″,0.4,44.8,20.3,126.9
+75,Graveler,Rock Ground,3′03″,1,231.5,105,105
+75,Graveler Alolan Graveler,Rock Electric,3′03″,1,242.5,110,110
+76,Golem,Rock Ground,4′07″,1.4,661.4,300,153.1
+76,Golem Alolan Golem,Rock Electric,5′07″,1.7,696.7,316,109.3
+77,Ponyta,Fire,3′03″,1,66.1,30,30
+77,Ponyta Galarian Ponyta,Psychic,2′07″,0.8,52.9,24,37.5
+78,Rapidash,Fire,5′07″,1.7,209.4,95,32.9
+78,Rapidash Galarian Rapidash,Psychic Fairy,5′07″,1.7,176.4,80,27.7
+79,Slowpoke,Water Psychic,3′11″,1.2,79.4,36,25
+79,Slowpoke Galarian Slowpoke,Psychic,3′11″,1.2,79.4,36,25
+80,Slowbro,Water Psychic,5′03″,1.6,173.1,78.5,30.7
+80,Slowbro Mega Slowbro,Water Psychic,6′07″,2,264.6,120,30
+80,Slowbro Galarian Slowbro,Poison Psychic,5′03″,1.6,155.4,70.5,27.5
+81,Magnemite,Electric Steel,1′00″,0.3,13.2,6,66.7
+82,Magneton,Electric Steel,3′03″,1,132.3,60,60
+83,Farfetch'd,Normal Flying,2′07″,0.8,33.1,15,23.4
+83,Farfetch'd Galarian Farfetch'd,Fighting,2′07″,0.8,92.6,42,65.6
+84,Doduo,Normal Flying,4′07″,1.4,86.4,39.2,20
+85,Dodrio,Normal Flying,5′11″,1.8,187.8,85.2,26.3
+86,Seel,Water,3′07″,1.1,198.4,90,74.4
+87,Dewgong,Water Ice,5′07″,1.7,264.6,120,41.5
+88,Grimer,Poison,2′11″,0.9,66.1,30,37
+88,Grimer Alolan Grimer,Poison Dark,2′04″,0.7,92.6,42,85.7
+89,Muk,Poison,3′11″,1.2,66.1,30,20.8
+89,Muk Alolan Muk,Poison Dark,3′03″,1,114.6,52,52
+90,Shellder,Water,1′00″,0.3,8.8,4,44.4
+91,Cloyster,Water Ice,4′11″,1.5,292.1,132.5,58.9
+92,Gastly,Ghost Poison,4′03″,1.3,0.2,0.1,0.1
+93,Haunter,Ghost Poison,5′03″,1.6,0.2,0.1,0
+94,Gengar,Ghost Poison,4′11″,1.5,89.3,40.5,18
+94,Gengar Mega Gengar,Ghost Poison,4′07″,1.4,89.3,40.5,20.7
+95,Onix,Rock Ground,28′10″,8.8,463,210,2.7
+96,Drowzee,Psychic,3′03″,1,71.4,32.4,32.4
+97,Hypno,Psychic,5′03″,1.6,166.7,75.6,29.5
+98,Krabby,Water,1′04″,0.4,14.3,6.5,40.6
+99,Kingler,Water,4′03″,1.3,132.3,60,35.5
+100,Voltorb,Electric,1′08″,0.5,22.9,10.4,41.6
+100,Voltorb Hisuian Voltorb,Electric Grass,1′08″,0.5,28.7,13,52
+101,Electrode,Electric,3′11″,1.2,146.8,66.6,46.3
+101,Electrode Hisuian Electrode,Electric Grass,3′11″,1.2,156.5,71,49.3
+102,Exeggcute,Grass Psychic,1′04″,0.4,5.5,2.5,15.6
+103,Exeggutor,Grass Psychic,6′07″,2,264.6,120,30
+103,Exeggutor Alolan Exeggutor,Grass Dragon,35′09″,10.9,916.2,415.6,3.5
+104,Cubone,Ground,1′04″,0.4,14.3,6.5,40.6
+105,Marowak,Ground,3′03″,1,99.2,45,45
+105,Marowak Alolan Marowak,Fire Ghost,3′03″,1,75,34,34
+106,Hitmonlee,Fighting,4′11″,1.5,109.8,49.8,22.1
+107,Hitmonchan,Fighting,4′07″,1.4,110.7,50.2,25.6
+108,Lickitung,Normal,3′11″,1.2,144.4,65.5,45.5
+109,Koffing,Poison,2′00″,0.6,2.2,1,2.8
+110,Weezing,Poison,3′11″,1.2,20.9,9.5,6.6
+110,Weezing Galarian Weezing,Poison Fairy,9′10″,3,35.3,16,1.8
+111,Rhyhorn,Ground Rock,3′03″,1,253.5,115,115
+112,Rhydon,Ground Rock,6′03″,1.9,264.6,120,33.2
+113,Chansey,Normal,3′07″,1.1,76.3,34.6,28.6
+114,Tangela,Grass,3′03″,1,77.2,35,35
+115,Kangaskhan,Normal,7′03″,2.2,176.4,80,16.5
+115,Kangaskhan Mega Kangaskhan,Normal,7′03″,2.2,220.5,100,20.7
+116,Horsea,Water,1′04″,0.4,17.6,8,50
+117,Seadra,Water,3′11″,1.2,55.1,25,17.4
+118,Goldeen,Water,2′00″,0.6,33.1,15,41.7
+119,Seaking,Water,4′03″,1.3,86,39,23.1
+120,Staryu,Water,2′07″,0.8,76.1,34.5,53.9
+121,Starmie,Water Psychic,3′07″,1.1,176.4,80,66.1
+122,Mr. Mime,Psychic Fairy,4′03″,1.3,120.2,54.5,32.2
+122,Mr. Mime Galarian Mr. Mime,Ice Psychic,4′07″,1.4,125.2,56.8,29
+123,Scyther,Bug Flying,4′11″,1.5,123.5,56,24.9
+124,Jynx,Ice Psychic,4′07″,1.4,89.5,40.6,20.7
+125,Electabuzz,Electric,3′07″,1.1,66.1,30,24.8
+126,Magmar,Fire,4′03″,1.3,98.1,44.5,26.3
+127,Pinsir,Bug,4′11″,1.5,121.3,55,24.4
+127,Pinsir Mega Pinsir,Bug Flying,5′07″,1.7,130.1,59,20.4
+128,Tauros,Normal,4′07″,1.4,194.9,88.4,45.1
+128,Tauros Combat Breed,Fighting,4′07″,1.4,253.5,115,58.7
+128,Tauros Blaze Breed,Fighting Fire,4′07″,1.4,187.4,85,43.4
+128,Tauros Aqua Breed,Fighting Water,4′07″,1.4,242.5,110,56.1
+129,Magikarp,Water,2′11″,0.9,22,10,12.3
+130,Gyarados,Water Flying,21′04″,6.5,518.1,235,5.6
+130,Gyarados Mega Gyarados,Water Dark,21′04″,6.5,672.4,305,7.2
+131,Lapras,Water Ice,8′02″,2.5,485,220,35.2
+132,Ditto,Normal,1′00″,0.3,8.8,4,44.4
+133,Eevee,Normal,1′00″,0.3,14.3,6.5,72.2
+133,Eevee Partner Eevee,Normal,1′00″,0.3,14.3,6.5,72.2
+134,Vaporeon,Water,3′03″,1,63.9,29,29
+135,Jolteon,Electric,2′07″,0.8,54,24.5,38.3
+136,Flareon,Fire,2′11″,0.9,55.1,25,30.9
+137,Porygon,Normal,2′07″,0.8,80.5,36.5,57
+138,Omanyte,Rock Water,1′04″,0.4,16.5,7.5,46.9
+139,Omastar,Rock Water,3′03″,1,77.2,35,35
+140,Kabuto,Rock Water,1′08″,0.5,25.4,11.5,46
+141,Kabutops,Rock Water,4′03″,1.3,89.3,40.5,24
+142,Aerodactyl,Rock Flying,5′11″,1.8,130.1,59,18.2
+142,Aerodactyl Mega Aerodactyl,Rock Flying,6′11″,2.1,174.2,79,17.9
+143,Snorlax,Normal,6′11″,2.1,1014.1,460,104.3
+144,Articuno,Ice Flying,5′07″,1.7,122.1,55.4,19.2
+144,Articuno Galarian Articuno,Psychic Flying,5′07″,1.7,112.2,50.9,17.6
+145,Zapdos,Electric Flying,5′03″,1.6,116,52.6,20.5
+145,Zapdos Galarian Zapdos,Fighting Flying,5′03″,1.6,128.3,58.2,22.7
+146,Moltres,Fire Flying,6′07″,2,132.3,60,15
+146,Moltres Galarian Moltres,Dark Flying,6′07″,2,145.5,66,16.5
+147,Dratini,Dragon,5′11″,1.8,7.3,3.3,1
+148,Dragonair,Dragon,13′01″,4,36.4,16.5,1
+149,Dragonite,Dragon Flying,7′03″,2.2,463,210,43.4
+150,Mewtwo,Psychic,6′07″,2,269,122,30.5
+150,Mewtwo Mega Mewtwo X,Psychic Fighting,7′07″,2.3,280,127,24
+150,Mewtwo Mega Mewtwo Y,Psychic,4′11″,1.5,72.8,33,14.7
+151,Mew,Psychic,1′04″,0.4,8.8,4,25
+152,Chikorita,Grass,2′11″,0.9,14.1,6.4,7.9
+153,Bayleef,Grass,3′11″,1.2,34.8,15.8,11
+154,Meganium,Grass,5′11″,1.8,221.6,100.5,31
+155,Cyndaquil,Fire,1′08″,0.5,17.4,7.9,31.6
+156,Quilava,Fire,2′11″,0.9,41.9,19,23.5
+157,Typhlosion,Fire,5′07″,1.7,175.3,79.5,27.5
+157,Typhlosion Hisuian Typhlosion,Fire Ghost,5′03″,1.6,153.9,69.8,27.3
+158,Totodile,Water,2′00″,0.6,20.9,9.5,26.4
+159,Croconaw,Water,3′07″,1.1,55.1,25,20.7
+160,Feraligatr,Water,7′07″,2.3,195.8,88.8,16.8
+161,Sentret,Normal,2′07″,0.8,13.2,6,9.4
+162,Furret,Normal,5′11″,1.8,71.7,32.5,10
+163,Hoothoot,Normal Flying,2′04″,0.7,46.7,21.2,43.3
+164,Noctowl,Normal Flying,5′03″,1.6,89.9,40.8,15.9
+165,Ledyba,Bug Flying,3′03″,1,23.8,10.8,10.8
+166,Ledian,Bug Flying,4′07″,1.4,78.5,35.6,18.2
+167,Spinarak,Bug Poison,1′08″,0.5,18.7,8.5,34
+168,Ariados,Bug Poison,3′07″,1.1,73.9,33.5,27.7
+169,Crobat,Poison Flying,5′11″,1.8,165.3,75,23.1
+170,Chinchou,Water Electric,1′08″,0.5,26.5,12,48
+171,Lanturn,Water Electric,3′11″,1.2,49.6,22.5,15.6
+172,Pichu,Electric,1′00″,0.3,4.4,2,22.2
+173,Cleffa,Fairy,1′00″,0.3,6.6,3,33.3
+174,Igglybuff,Normal Fairy,1′00″,0.3,2.2,1,11.1
+175,Togepi,Fairy,1′00″,0.3,3.3,1.5,16.7
+176,Togetic,Fairy Flying,2′00″,0.6,7.1,3.2,8.9
+177,Natu,Psychic Flying,0′08″,0.2,4.4,2,50
+178,Xatu,Psychic Flying,4′11″,1.5,33.1,15,6.7
+179,Mareep,Electric,2′00″,0.6,17.2,7.8,21.7
+180,Flaaffy,Electric,2′07″,0.8,29.3,13.3,20.8
+181,Ampharos,Electric,4′07″,1.4,135.6,61.5,31.4
+181,Ampharos Mega Ampharos,Electric Dragon,4′07″,1.4,135.6,61.5,31.4
+182,Bellossom,Grass,1′04″,0.4,12.8,5.8,36.3
+183,Marill,Water Fairy,1′04″,0.4,18.7,8.5,53.1
+184,Azumarill,Water Fairy,2′07″,0.8,62.8,28.5,44.5
+185,Sudowoodo,Rock,3′11″,1.2,83.8,38,26.4
+186,Politoed,Water,3′07″,1.1,74.7,33.9,28
+187,Hoppip,Grass Flying,1′04″,0.4,1.1,0.5,3.1
+188,Skiploom,Grass Flying,2′00″,0.6,2.2,1,2.8
+189,Jumpluff,Grass Flying,2′07″,0.8,6.6,3,4.7
+190,Aipom,Normal,2′07″,0.8,25.4,11.5,18
+191,Sunkern,Grass,1′00″,0.3,4,1.8,20
+192,Sunflora,Grass,2′07″,0.8,18.7,8.5,13.3
+193,Yanma,Bug Flying,3′11″,1.2,83.8,38,26.4
+194,Wooper,Water Ground,1′04″,0.4,18.7,8.5,53.1
+194,Wooper Paldean Wooper,Poison Ground,1′04″,0.4,24.3,11,68.8
+195,Quagsire,Water Ground,4′07″,1.4,165.3,75,38.3
+196,Espeon,Psychic,2′11″,0.9,58.4,26.5,32.7
+197,Umbreon,Dark,3′03″,1,59.5,27,27
+198,Murkrow,Dark Flying,1′08″,0.5,4.6,2.1,8.4
+199,Slowking,Water Psychic,6′07″,2,175.3,79.5,19.9
+199,Slowking Galarian Slowking,Poison Psychic,5′11″,1.8,175.3,79.5,24.5
+200,Misdreavus,Ghost,2′04″,0.7,2.2,1,2
+201,Unown,Psychic,1′08″,0.5,11,5,20
+202,Wobbuffet,Psychic,4′03″,1.3,62.8,28.5,16.9
+203,Girafarig,Normal Psychic,4′11″,1.5,91.5,41.5,18.4
+204,Pineco,Bug,2′00″,0.6,15.9,7.2,20
+205,Forretress,Bug Steel,3′11″,1.2,277.3,125.8,87.4
+206,Dunsparce,Normal,4′11″,1.5,30.9,14,6.2
+207,Gligar,Ground Flying,3′07″,1.1,142.9,64.8,53.6
+208,Steelix,Steel Ground,30′02″,9.2,881.8,400,4.7
+208,Steelix Mega Steelix,Steel Ground,34′05″,10.5,1631.4,740,6.7
+209,Snubbull,Fairy,2′00″,0.6,17.2,7.8,21.7
+210,Granbull,Fairy,4′07″,1.4,107.4,48.7,24.8
+211,Qwilfish,Water Poison,1′08″,0.5,8.6,3.9,15.6
+211,Qwilfish Hisuian Qwilfish,Dark Poison,1′08″,0.5,8.6,3.9,15.6
+212,Scizor,Bug Steel,5′11″,1.8,260.1,118,36.4
+212,Scizor Mega Scizor,Bug Steel,6′07″,2,275.6,125,31.3
+213,Shuckle,Bug Rock,2′00″,0.6,45.2,20.5,56.9
+214,Heracross,Bug Fighting,4′11″,1.5,119,54,24
+214,Heracross Mega Heracross,Bug Fighting,5′07″,1.7,137.8,62.5,21.6
+215,Sneasel,Dark Ice,2′11″,0.9,61.7,28,34.6
+215,Sneasel Hisuian Sneasel,Fighting Poison,2′11″,0.9,59.5,27,33.3
+216,Teddiursa,Normal,2′00″,0.6,19.4,8.8,24.4
+217,Ursaring,Normal,5′11″,1.8,277.3,125.8,38.8
+218,Slugma,Fire,2′04″,0.7,77.2,35,71.4
+219,Magcargo,Fire Rock,2′07″,0.8,121.3,55,85.9
+220,Swinub,Ice Ground,1′04″,0.4,14.3,6.5,40.6
+221,Piloswine,Ice Ground,3′07″,1.1,123,55.8,46.1
+222,Corsola,Water Rock,2′00″,0.6,11,5,13.9
+222,Corsola Galarian Corsola,Ghost,2′00″,0.6,1.1,0.5,1.4
+223,Remoraid,Water,2′00″,0.6,26.5,12,33.3
+224,Octillery,Water,2′11″,0.9,62.8,28.5,35.2
+225,Delibird,Ice Flying,2′11″,0.9,35.3,16,19.8
+226,Mantine,Water Flying,6′11″,2.1,485,220,49.9
+227,Skarmory,Steel Flying,5′07″,1.7,111.3,50.5,17.5
+228,Houndour,Dark Fire,2′00″,0.6,23.8,10.8,30
+229,Houndoom,Dark Fire,4′07″,1.4,77.2,35,17.9
+229,Houndoom Mega Houndoom,Dark Fire,6′03″,1.9,109.1,49.5,13.7
+230,Kingdra,Water Dragon,5′11″,1.8,335.1,152,46.9
+231,Phanpy,Ground,1′08″,0.5,73.9,33.5,134
+232,Donphan,Ground,3′07″,1.1,264.6,120,99.2
+233,Porygon2,Normal,2′00″,0.6,71.7,32.5,90.3
+234,Stantler,Normal,4′07″,1.4,157,71.2,36.3
+235,Smeargle,Normal,3′11″,1.2,127.9,58,40.3
+236,Tyrogue,Fighting,2′04″,0.7,46.3,21,42.9
+237,Hitmontop,Fighting,4′07″,1.4,105.8,48,24.5
+238,Smoochum,Ice Psychic,1′04″,0.4,13.2,6,37.5
+239,Elekid,Electric,2′00″,0.6,51.8,23.5,65.3
+240,Magby,Fire,2′04″,0.7,47.2,21.4,43.7
+241,Miltank,Normal,3′11″,1.2,166.4,75.5,52.4
+242,Blissey,Normal,4′11″,1.5,103.2,46.8,20.8
+243,Raikou,Electric,6′03″,1.9,392.4,178,49.3
+244,Entei,Fire,6′11″,2.1,436.5,198,44.9
+245,Suicune,Water,6′07″,2,412.3,187,46.8
+246,Larvitar,Rock Ground,2′00″,0.6,158.7,72,200
+247,Pupitar,Rock Ground,3′11″,1.2,335.1,152,105.6
+248,Tyranitar,Rock Dark,6′07″,2,445.3,202,50.5
+248,Tyranitar Mega Tyranitar,Rock Dark,8′02″,2.5,562.2,255,40.8
+249,Lugia,Psychic Flying,17′01″,5.2,476.2,216,8
+250,Ho-oh,Fire Flying,12′06″,3.8,438.7,199,13.8
+251,Celebi,Psychic Grass,2′00″,0.6,11,5,13.9
+252,Treecko,Grass,1′08″,0.5,11,5,20
+253,Grovyle,Grass,2′11″,0.9,47.6,21.6,26.7
+254,Sceptile,Grass,5′07″,1.7,115.1,52.2,18.1
+254,Sceptile Mega Sceptile,Grass Dragon,6′03″,1.9,121.7,55.2,15.3
+255,Torchic,Fire,1′04″,0.4,5.5,2.5,15.6
+256,Combusken,Fire Fighting,2′11″,0.9,43,19.5,24.1
+257,Blaziken,Fire Fighting,6′03″,1.9,114.6,52,14.4
+257,Blaziken Mega Blaziken,Fire Fighting,6′03″,1.9,114.6,52,14.4
+258,Mudkip,Water,1′04″,0.4,16.8,7.6,47.5
+259,Marshtomp,Water Ground,2′04″,0.7,61.7,28,57.1
+260,Swampert,Water Ground,4′11″,1.5,180.6,81.9,36.4
+260,Swampert Mega Swampert,Water Ground,6′03″,1.9,224.9,102,28.3
+261,Poochyena,Dark,1′08″,0.5,30,13.6,54.4
+262,Mightyena,Dark,3′03″,1,81.6,37,37
+263,Zigzagoon,Normal,1′04″,0.4,38.6,17.5,109.4
+263,Zigzagoon Galarian Zigzagoon,Dark Normal,1′04″,0.4,38.6,17.5,109.4
+264,Linoone,Normal,1′08″,0.5,71.7,32.5,130
+264,Linoone Galarian Linoone,Dark Normal,1′08″,0.5,71.7,32.5,130
+265,Wurmple,Bug,1′00″,0.3,7.9,3.6,40
+266,Silcoon,Bug,2′00″,0.6,22,10,27.8
+267,Beautifly,Bug Flying,3′03″,1,62.6,28.4,28.4
+268,Cascoon,Bug,2′04″,0.7,25.4,11.5,23.5
+269,Dustox,Bug Poison,3′11″,1.2,69.7,31.6,21.9
+270,Lotad,Water Grass,1′08″,0.5,5.7,2.6,10.4
+271,Lombre,Water Grass,3′11″,1.2,71.7,32.5,22.6
+272,Ludicolo,Water Grass,4′11″,1.5,121.3,55,24.4
+273,Seedot,Grass,1′08″,0.5,8.8,4,16
+274,Nuzleaf,Grass Dark,3′03″,1,61.7,28,28
+275,Shiftry,Grass Dark,4′03″,1.3,131.4,59.6,35.3
+276,Taillow,Normal Flying,1′00″,0.3,5.1,2.3,25.6
+277,Swellow,Normal Flying,2′04″,0.7,43.7,19.8,40.4
+278,Wingull,Water Flying,2′00″,0.6,20.9,9.5,26.4
+279,Pelipper,Water Flying,3′11″,1.2,61.7,28,19.4
+280,Ralts,Psychic Fairy,1′04″,0.4,14.6,6.6,41.3
+281,Kirlia,Psychic Fairy,2′07″,0.8,44.5,20.2,31.6
+282,Gardevoir,Psychic Fairy,5′03″,1.6,106.7,48.4,18.9
+282,Gardevoir Mega Gardevoir,Psychic Fairy,5′03″,1.6,106.7,48.4,18.9
+283,Surskit,Bug Water,1′08″,0.5,3.7,1.7,6.8
+284,Masquerain,Bug Flying,2′07″,0.8,7.9,3.6,5.6
+285,Shroomish,Grass,1′04″,0.4,9.9,4.5,28.1
+286,Breloom,Grass Fighting,3′11″,1.2,86.4,39.2,27.2
+287,Slakoth,Normal,2′07″,0.8,52.9,24,37.5
+288,Vigoroth,Normal,4′07″,1.4,102.5,46.5,23.7
+289,Slaking,Normal,6′07″,2,287.7,130.5,32.6
+290,Nincada,Bug Ground,1′08″,0.5,12.1,5.5,22
+291,Ninjask,Bug Flying,2′07″,0.8,26.5,12,18.8
+292,Shedinja,Bug Ghost,2′07″,0.8,2.6,1.2,1.9
+293,Whismur,Normal,2′00″,0.6,35.9,16.3,45.3
+294,Loudred,Normal,3′03″,1,89.3,40.5,40.5
+295,Exploud,Normal,4′11″,1.5,185.2,84,37.3
+296,Makuhita,Fighting,3′03″,1,190.5,86.4,86.4
+297,Hariyama,Fighting,7′07″,2.3,559.5,253.8,48
+298,Azurill,Normal Fairy,0′08″,0.2,4.4,2,50
+299,Nosepass,Rock,3′03″,1,213.8,97,97
+300,Skitty,Normal,2′00″,0.6,24.3,11,30.6
+301,Delcatty,Normal,3′07″,1.1,71.9,32.6,26.9
+302,Sableye,Dark Ghost,1′08″,0.5,24.3,11,44
+302,Sableye Mega Sableye,Dark Ghost,1′08″,0.5,354.9,161,644
+303,Mawile,Steel Fairy,2′00″,0.6,25.4,11.5,31.9
+303,Mawile Mega Mawile,Steel Fairy,3′03″,1,51.8,23.5,23.5
+304,Aron,Steel Rock,1′04″,0.4,132.3,60,375
+305,Lairon,Steel Rock,2′11″,0.9,264.6,120,148.1
+306,Aggron,Steel Rock,6′11″,2.1,793.7,360,81.6
+306,Aggron Mega Aggron,Steel,7′03″,2.2,870.8,395,81.6
+307,Meditite,Fighting Psychic,2′00″,0.6,24.7,11.2,31.1
+308,Medicham,Fighting Psychic,4′03″,1.3,69.4,31.5,18.6
+308,Medicham Mega Medicham,Fighting Psychic,4′03″,1.3,69.4,31.5,18.6
+309,Electrike,Electric,2′00″,0.6,33.5,15.2,42.2
+310,Manectric,Electric,4′11″,1.5,88.6,40.2,17.9
+310,Manectric Mega Manectric,Electric,5′11″,1.8,97,44,13.6
+311,Plusle,Electric,1′04″,0.4,9.3,4.2,26.3
+312,Minun,Electric,1′04″,0.4,9.3,4.2,26.3
+313,Volbeat,Bug,2′04″,0.7,39,17.7,36.1
+314,Illumise,Bug,2′00″,0.6,39,17.7,49.2
+315,Roselia,Grass Poison,1′00″,0.3,4.4,2,22.2
+316,Gulpin,Poison,1′04″,0.4,22.7,10.3,64.4
+317,Swalot,Poison,5′07″,1.7,176.4,80,27.7
+318,Carvanha,Water Dark,2′07″,0.8,45.9,20.8,32.5
+319,Sharpedo,Water Dark,5′11″,1.8,195.8,88.8,27.4
+319,Sharpedo Mega Sharpedo,Water Dark,8′02″,2.5,287.3,130.3,20.8
+320,Wailmer,Water,6′07″,2,286.6,130,32.5
+321,Wailord,Water,47′07″,14.5,877.4,398,1.9
+322,Numel,Fire Ground,2′04″,0.7,52.9,24,49
+323,Camerupt,Fire Ground,6′03″,1.9,485,220,60.9
+323,Camerupt Mega Camerupt,Fire Ground,8′02″,2.5,706.6,320.5,51.3
+324,Torkoal,Fire,1′08″,0.5,177.3,80.4,321.6
+325,Spoink,Psychic,2′04″,0.7,67.5,30.6,62.4
+326,Grumpig,Psychic,2′11″,0.9,157.6,71.5,88.3
+327,Spinda,Normal,3′07″,1.1,11,5,4.1
+328,Trapinch,Ground,2′04″,0.7,33.1,15,30.6
+329,Vibrava,Ground Dragon,3′07″,1.1,33.7,15.3,12.6
+330,Flygon,Ground Dragon,6′07″,2,180.8,82,20.5
+331,Cacnea,Grass,1′04″,0.4,113.1,51.3,320.6
+332,Cacturne,Grass Dark,4′03″,1.3,170.6,77.4,45.8
+333,Swablu,Normal Flying,1′04″,0.4,2.6,1.2,7.5
+334,Altaria,Dragon Flying,3′07″,1.1,45.4,20.6,17
+334,Altaria Mega Altaria,Dragon Fairy,4′11″,1.5,45.4,20.6,9.2
+335,Zangoose,Normal,4′03″,1.3,88.8,40.3,23.8
+336,Seviper,Poison,8′10″,2.7,115.7,52.5,7.2
+337,Lunatone,Rock Psychic,3′03″,1,370.4,168,168
+338,Solrock,Rock Psychic,3′11″,1.2,339.5,154,106.9
+339,Barboach,Water Ground,1′04″,0.4,4.2,1.9,11.9
+340,Whiscash,Water Ground,2′11″,0.9,52,23.6,29.1
+341,Corphish,Water,2′00″,0.6,25.4,11.5,31.9
+342,Crawdaunt,Water Dark,3′07″,1.1,72.3,32.8,27.1
+343,Baltoy,Ground Psychic,1′08″,0.5,47.4,21.5,86
+344,Claydol,Ground Psychic,4′11″,1.5,238.1,108,48
+345,Lileep,Rock Grass,3′03″,1,52.5,23.8,23.8
+346,Cradily,Rock Grass,4′11″,1.5,133.2,60.4,26.8
+347,Anorith,Rock Bug,2′04″,0.7,27.6,12.5,25.5
+348,Armaldo,Rock Bug,4′11″,1.5,150.4,68.2,30.3
+349,Feebas,Water,2′00″,0.6,16.3,7.4,20.6
+350,Milotic,Water,20′04″,6.2,357.1,162,4.2
+351,Castform,Normal,1′00″,0.3,1.8,0.8,8.9
+351,Castform Sunny Form,Fire,1′00″,0.3,1.8,0.8,8.9
+351,Castform Rainy Form,Water,1′00″,0.3,1.8,0.8,8.9
+351,Castform Snowy Form,Ice,1′00″,0.3,1.8,0.8,8.9
+352,Kecleon,Normal,3′03″,1,48.5,22,22
+353,Shuppet,Ghost,2′00″,0.6,5.1,2.3,6.4
+354,Banette,Ghost,3′07″,1.1,27.6,12.5,10.3
+354,Banette Mega Banette,Ghost,3′11″,1.2,28.7,13,9
+355,Duskull,Ghost,2′07″,0.8,33.1,15,23.4
+356,Dusclops,Ghost,5′03″,1.6,67.5,30.6,12
+357,Tropius,Grass Flying,6′07″,2,220.5,100,25
+358,Chimecho,Psychic,2′00″,0.6,2.2,1,2.8
+359,Absol,Dark,3′11″,1.2,103.6,47,32.6
+359,Absol Mega Absol,Dark,3′11″,1.2,108,49,34
+360,Wynaut,Psychic,2′00″,0.6,30.9,14,38.9
+361,Snorunt,Ice,2′04″,0.7,37,16.8,34.3
+362,Glalie,Ice,4′11″,1.5,565.5,256.5,114
+362,Glalie Mega Glalie,Ice,6′11″,2.1,772.1,350.2,79.4
+363,Spheal,Ice Water,2′07″,0.8,87.1,39.5,61.7
+364,Sealeo,Ice Water,3′07″,1.1,193.1,87.6,72.4
+365,Walrein,Ice Water,4′07″,1.4,332,150.6,76.8
+366,Clamperl,Water,1′04″,0.4,115.7,52.5,328.1
+367,Huntail,Water,5′07″,1.7,59.5,27,9.3
+368,Gorebyss,Water,5′11″,1.8,49.8,22.6,7
+369,Relicanth,Water Rock,3′03″,1,51.6,23.4,23.4
+370,Luvdisc,Water,2′00″,0.6,19.2,8.7,24.2
+371,Bagon,Dragon,2′00″,0.6,92.8,42.1,116.9
+372,Shelgon,Dragon,3′07″,1.1,243.6,110.5,91.3
+373,Salamence,Dragon Flying,4′11″,1.5,226.2,102.6,45.6
+373,Salamence Mega Salamence,Dragon Flying,5′11″,1.8,248.2,112.6,34.8
+374,Beldum,Steel Psychic,2′00″,0.6,209.9,95.2,264.4
+375,Metang,Steel Psychic,3′11″,1.2,446.4,202.5,140.6
+376,Metagross,Steel Psychic,5′03″,1.6,1212.5,550,214.8
+376,Metagross Mega Metagross,Steel Psychic,8′02″,2.5,2078.7,942.9,150.9
+377,Regirock,Rock,5′07″,1.7,507.1,230,79.6
+378,Regice,Ice,5′11″,1.8,385.8,175,54
+379,Registeel,Steel,6′03″,1.9,451.9,205,56.8
+380,Latias,Dragon Psychic,4′07″,1.4,88.2,40,20.4
+380,Latias Mega Latias,Dragon Psychic,5′11″,1.8,114.6,52,16
+381,Latios,Dragon Psychic,6′07″,2,132.3,60,15
+381,Latios Mega Latios,Dragon Psychic,7′07″,2.3,154.3,70,13.2
+382,Kyogre,Water,14′09″,4.5,776,352,17.4
+382,Kyogre Primal Kyogre,Water,32′02″,9.8,948,430,4.5
+383,Groudon,Ground,11′06″,3.5,2094.4,950,77.6
+383,Groudon Primal Groudon,Ground Fire,16′05″,5,2204,999.7,40
+384,Rayquaza,Dragon Flying,23′00″,7,455.3,206.5,4.2
+384,Rayquaza Mega Rayquaza,Dragon Flying,35′05″,10.8,864.2,392,3.4
+385,Jirachi,Steel Psychic,1′00″,0.3,2.4,1.1,12.2
+386,Deoxys Normal Forme,Psychic,5′07″,1.7,134,60.8,21
+386,Deoxys Attack Forme,Psychic,5′07″,1.7,134,60.8,21
+386,Deoxys Defense Forme,Psychic,5′07″,1.7,134,60.8,21
+386,Deoxys Speed Forme,Psychic,5′07″,1.7,134,60.8,21
+387,Turtwig,Grass,1′04″,0.4,22.5,10.2,63.8
+388,Grotle,Grass,3′07″,1.1,213.8,97,80.2
+389,Torterra,Grass Ground,7′03″,2.2,683.4,310,64
+390,Chimchar,Fire,1′08″,0.5,13.7,6.2,24.8
+391,Monferno,Fire Fighting,2′11″,0.9,48.5,22,27.2
+392,Infernape,Fire Fighting,3′11″,1.2,121.3,55,38.2
+393,Piplup,Water,1′04″,0.4,11.5,5.2,32.5
+394,Prinplup,Water,2′07″,0.8,50.7,23,35.9
+395,Empoleon,Water Steel,5′07″,1.7,186.3,84.5,29.2
+396,Starly,Normal Flying,1′00″,0.3,4.4,2,22.2
+397,Staravia,Normal Flying,2′00″,0.6,34.2,15.5,43.1
+398,Staraptor,Normal Flying,3′11″,1.2,54.9,24.9,17.3
+399,Bidoof,Normal,1′08″,0.5,44.1,20,80
+400,Bibarel,Normal Water,3′03″,1,69.4,31.5,31.5
+401,Kricketot,Bug,1′00″,0.3,4.9,2.2,24.4
+402,Kricketune,Bug,3′03″,1,56.2,25.5,25.5
+403,Shinx,Electric,1′08″,0.5,20.9,9.5,38
+404,Luxio,Electric,2′11″,0.9,67.2,30.5,37.7
+405,Luxray,Electric,4′07″,1.4,92.6,42,21.4
+406,Budew,Grass Poison,0′08″,0.2,2.6,1.2,30
+407,Roserade,Grass Poison,2′11″,0.9,32,14.5,17.9
+408,Cranidos,Rock,2′11″,0.9,69.4,31.5,38.9
+409,Rampardos,Rock,5′03″,1.6,226,102.5,40
+410,Shieldon,Rock Steel,1′08″,0.5,125.7,57,228
+411,Bastiodon,Rock Steel,4′03″,1.3,329.6,149.5,88.5
+412,Burmy Plant Cloak,Bug,0′08″,0.2,7.5,3.4,85
+412,Burmy Sandy Cloak,Bug,0′08″,0.2,7.5,3.4,85
+412,Burmy Trash Cloak,Bug,0′08″,0.2,7.5,3.4,85
+413,Wormadam Plant Cloak,Bug Grass,1′08″,0.5,14.3,6.5,26
+413,Wormadam Sandy Cloak,Bug Ground,1′08″,0.5,14.3,6.5,26
+413,Wormadam Trash Cloak,Bug Steel,1′08″,0.5,14.3,6.5,26
+414,Mothim,Bug Flying,2′11″,0.9,51.4,23.3,28.8
+415,Combee,Bug Flying,1′00″,0.3,12.1,5.5,61.1
+416,Vespiquen,Bug Flying,3′11″,1.2,84.9,38.5,26.7
+417,Pachirisu,Electric,1′04″,0.4,8.6,3.9,24.4
+418,Buizel,Water,2′04″,0.7,65,29.5,60.2
+419,Floatzel,Water,3′07″,1.1,73.9,33.5,27.7
+420,Cherubi,Grass,1′04″,0.4,7.3,3.3,20.6
+421,Cherrim,Grass,1′08″,0.5,20.5,9.3,37.2
+422,Shellos,Water,1′00″,0.3,13.9,6.3,70
+423,Gastrodon,Water Ground,2′11″,0.9,65.9,29.9,36.9
+424,Ambipom,Normal,3′11″,1.2,44.8,20.3,14.1
+425,Drifloon,Ghost Flying,1′04″,0.4,2.6,1.2,7.5
+426,Drifblim,Ghost Flying,3′11″,1.2,33.1,15,10.4
+427,Buneary,Normal,1′04″,0.4,12.1,5.5,34.4
+428,Lopunny,Normal,3′11″,1.2,73.4,33.3,23.1
+428,Lopunny Mega Lopunny,Normal Fighting,4′03″,1.3,62.4,28.3,16.7
+429,Mismagius,Ghost,2′11″,0.9,9.7,4.4,5.4
+430,Honchkrow,Dark Flying,2′11″,0.9,60.2,27.3,33.7
+431,Glameow,Normal,1′08″,0.5,8.6,3.9,15.6
+432,Purugly,Normal,3′03″,1,96.6,43.8,43.8
+433,Chingling,Psychic,0′08″,0.2,1.3,0.6,15
+434,Stunky,Poison Dark,1′04″,0.4,42.3,19.2,120
+435,Skuntank,Poison Dark,3′03″,1,83.8,38,38
+436,Bronzor,Steel Psychic,1′08″,0.5,133.4,60.5,242
+437,Bronzong,Steel Psychic,4′03″,1.3,412.3,187,110.7
+438,Bonsly,Rock,1′08″,0.5,33.1,15,60
+439,Mime Jr.,Psychic Fairy,2′00″,0.6,28.7,13,36.1
+440,Happiny,Normal,2′00″,0.6,53.8,24.4,67.8
+441,Chatot,Normal Flying,1′08″,0.5,4.2,1.9,7.6
+442,Spiritomb,Ghost Dark,3′03″,1,238.1,108,108
+443,Gible,Dragon Ground,2′04″,0.7,45.2,20.5,41.8
+444,Gabite,Dragon Ground,4′07″,1.4,123.5,56,28.6
+445,Garchomp,Dragon Ground,6′03″,1.9,209.4,95,26.3
+445,Garchomp Mega Garchomp,Dragon Ground,6′03″,1.9,209.4,95,26.3
+446,Munchlax,Normal,2′00″,0.6,231.5,105,291.7
+447,Riolu,Fighting,2′04″,0.7,44.5,20.2,41.2
+448,Lucario,Fighting Steel,3′11″,1.2,119,54,37.5
+448,Lucario Mega Lucario,Fighting Steel,4′03″,1.3,126.8,57.5,34
+449,Hippopotas,Ground,2′07″,0.8,109.1,49.5,77.3
+450,Hippowdon,Ground,6′07″,2,661.4,300,75
+451,Skorupi,Poison Bug,2′07″,0.8,26.5,12,18.8
+452,Drapion,Poison Dark,4′03″,1.3,135.6,61.5,36.4
+453,Croagunk,Poison Fighting,2′04″,0.7,50.7,23,46.9
+454,Toxicroak,Poison Fighting,4′03″,1.3,97.9,44.4,26.3
+455,Carnivine,Grass,4′07″,1.4,59.5,27,13.8
+456,Finneon,Water,1′04″,0.4,15.4,7,43.8
+457,Lumineon,Water,3′11″,1.2,52.9,24,16.7
+458,Mantyke,Water Flying,3′03″,1,143.3,65,65
+459,Snover,Grass Ice,3′03″,1,111.3,50.5,50.5
+460,Abomasnow,Grass Ice,7′03″,2.2,298.7,135.5,28
+460,Abomasnow Mega Abomasnow,Grass Ice,8′10″,2.7,407.9,185,25.4
+461,Weavile,Dark Ice,3′07″,1.1,75,34,28.1
+462,Magnezone,Electric Steel,3′11″,1.2,396.8,180,125
+463,Lickilicky,Normal,5′07″,1.7,308.6,140,48.4
+464,Rhyperior,Ground Rock,7′10″,2.4,623.5,282.8,49.1
+465,Tangrowth,Grass,6′07″,2,283.5,128.6,32.2
+466,Electivire,Electric,5′11″,1.8,305.6,138.6,42.8
+467,Magmortar,Fire,5′03″,1.6,149.9,68,26.6
+468,Togekiss,Fairy Flying,4′11″,1.5,83.8,38,16.9
+469,Yanmega,Bug Flying,6′03″,1.9,113.5,51.5,14.3
+470,Leafeon,Grass,3′03″,1,56.2,25.5,25.5
+471,Glaceon,Ice,2′07″,0.8,57.1,25.9,40.5
+472,Gliscor,Ground Flying,6′07″,2,93.7,42.5,10.6
+473,Mamoswine,Ice Ground,8′02″,2.5,641.5,291,46.6
+474,Porygon-Z,Normal,2′11″,0.9,75,34,42
+475,Gallade,Psychic Fighting,5′03″,1.6,114.6,52,20.3
+475,Gallade Mega Gallade,Psychic Fighting,5′03″,1.6,124.3,56.4,22
+476,Probopass,Rock Steel,4′07″,1.4,749.6,340,173.5
+477,Dusknoir,Ghost,7′03″,2.2,235,106.6,22
+478,Froslass,Ice Ghost,4′03″,1.3,58.6,26.6,15.7
+479,Rotom,Electric Ghost,1′00″,0.3,0.7,0.3,3.3
+479,Rotom Heat Rotom,Electric Fire,1′00″,0.3,0.7,0.3,3.3
+479,Rotom Wash Rotom,Electric Water,1′00″,0.3,0.7,0.3,3.3
+479,Rotom Frost Rotom,Electric Ice,1′00″,0.3,0.7,0.3,3.3
+479,Rotom Fan Rotom,Electric Flying,1′00″,0.3,0.7,0.3,3.3
+479,Rotom Mow Rotom,Electric Grass,1′00″,0.3,0.7,0.3,3.3
+480,Uxie,Psychic,1′00″,0.3,0.7,0.3,3.3
+481,Mesprit,Psychic,1′00″,0.3,0.7,0.3,3.3
+482,Azelf,Psychic,1′00″,0.3,0.7,0.3,3.3
+483,Dialga,Steel Dragon,17′09″,5.4,1505.8,683,23.4
+483,Dialga Origin Forme,Steel Dragon,23′00″,7,1873.9,850,17.3
+484,Palkia,Water Dragon,13′09″,4.2,740.8,336,19
+484,Palkia Origin Forme,Water Dragon,20′08″,6.3,1455,660,16.6
+485,Heatran,Fire Steel,5′07″,1.7,948,430,148.8
+486,Regigigas,Normal,12′02″,3.7,925.9,420,30.7
+487,Giratina Altered Forme,Ghost Dragon,14′09″,4.5,1653.5,750,37
+487,Giratina Origin Forme,Ghost Dragon,22′08″,6.9,1433,650,13.7
+488,Cresselia,Psychic,4′11″,1.5,188.7,85.6,38
+489,Phione,Water,1′04″,0.4,6.8,3.1,19.4
+490,Manaphy,Water,1′00″,0.3,3.1,1.4,15.6
+491,Darkrai,Dark,4′11″,1.5,111.3,50.5,22.4
+492,Shaymin Land Forme,Grass,0′08″,0.2,4.6,2.1,52.5
+492,Shaymin Sky Forme,Grass Flying,1′04″,0.4,11.5,5.2,32.5
+493,Arceus,Normal,10′06″,3.2,705.5,320,31.3
+494,Victini,Psychic Fire,1′04″,0.4,8.8,4,25
+495,Snivy,Grass,2′00″,0.6,17.9,8.1,22.5
+496,Servine,Grass,2′07″,0.8,35.3,16,25
+497,Serperior,Grass,10′10″,3.3,138.9,63,5.8
+498,Tepig,Fire,1′08″,0.5,21.8,9.9,39.6
+499,Pignite,Fire Fighting,3′03″,1,122.4,55.5,55.5
+500,Emboar,Fire Fighting,5′03″,1.6,330.7,150,58.6
+501,Oshawott,Water,1′08″,0.5,13,5.9,23.6
+502,Dewott,Water,2′07″,0.8,54,24.5,38.3
+503,Samurott,Water,4′11″,1.5,208.6,94.6,42
+503,Samurott Hisuian Samurott,Water Dark,4′11″,1.5,128.3,58.2,25.9
+504,Patrat,Normal,1′08″,0.5,25.6,11.6,46.4
+505,Watchog,Normal,3′07″,1.1,59.5,27,22.3
+506,Lillipup,Normal,1′04″,0.4,9,4.1,25.6
+507,Herdier,Normal,2′11″,0.9,32.4,14.7,18.1
+508,Stoutland,Normal,3′11″,1.2,134.5,61,42.4
+509,Purrloin,Dark,1′04″,0.4,22.3,10.1,63.1
+510,Liepard,Dark,3′07″,1.1,82.7,37.5,31
+511,Pansage,Grass,2′00″,0.6,23.1,10.5,29.2
+512,Simisage,Grass,3′07″,1.1,67.2,30.5,25.2
+513,Pansear,Fire,2′00″,0.6,24.3,11,30.6
+514,Simisear,Fire,3′03″,1,61.7,28,28
+515,Panpour,Water,2′00″,0.6,29.8,13.5,37.5
+516,Simipour,Water,3′03″,1,63.9,29,29
+517,Munna,Psychic,2′00″,0.6,51.4,23.3,64.7
+518,Musharna,Psychic,3′07″,1.1,133.4,60.5,50
+519,Pidove,Normal Flying,1′00″,0.3,4.6,2.1,23.3
+520,Tranquill,Normal Flying,2′00″,0.6,33.1,15,41.7
+521,Unfezant,Normal Flying,3′11″,1.2,63.9,29,20.1
+522,Blitzle,Electric,2′07″,0.8,65.7,29.8,46.6
+523,Zebstrika,Electric,5′03″,1.6,175.3,79.5,31.1
+524,Roggenrola,Rock,1′04″,0.4,39.7,18,112.5
+525,Boldore,Rock,2′11″,0.9,224.9,102,125.9
+526,Gigalith,Rock,5′07″,1.7,573.2,260,90
+527,Woobat,Psychic Flying,1′04″,0.4,4.6,2.1,13.1
+528,Swoobat,Psychic Flying,2′11″,0.9,23.1,10.5,13
+529,Drilbur,Ground,1′00″,0.3,18.7,8.5,94.4
+530,Excadrill,Ground Steel,2′04″,0.7,89.1,40.4,82.4
+531,Audino,Normal,3′07″,1.1,68.3,31,25.6
+531,Audino Mega Audino,Normal Fairy,4′11″,1.5,70.5,32,14.2
+532,Timburr,Fighting,2′00″,0.6,27.6,12.5,34.7
+533,Gurdurr,Fighting,3′11″,1.2,88.2,40,27.8
+534,Conkeldurr,Fighting,4′07″,1.4,191.8,87,44.4
+535,Tympole,Water,1′08″,0.5,9.9,4.5,18
+536,Palpitoad,Water Ground,2′07″,0.8,37.5,17,26.6
+537,Seismitoad,Water Ground,4′11″,1.5,136.7,62,27.6
+538,Throh,Fighting,4′03″,1.3,122.4,55.5,32.8
+539,Sawk,Fighting,4′07″,1.4,112.4,51,26
+540,Sewaddle,Bug Grass,1′00″,0.3,5.5,2.5,27.8
+541,Swadloon,Bug Grass,1′08″,0.5,16.1,7.3,29.2
+542,Leavanny,Bug Grass,3′11″,1.2,45.2,20.5,14.2
+543,Venipede,Bug Poison,1′04″,0.4,11.7,5.3,33.1
+544,Whirlipede,Bug Poison,3′11″,1.2,129,58.5,40.6
+545,Scolipede,Bug Poison,8′02″,2.5,442,200.5,32.1
+546,Cottonee,Grass Fairy,1′00″,0.3,1.3,0.6,6.7
+547,Whimsicott,Grass Fairy,2′04″,0.7,14.6,6.6,13.5
+548,Petilil,Grass,1′08″,0.5,14.6,6.6,26.4
+549,Lilligant,Grass,3′07″,1.1,35.9,16.3,13.5
+549,Lilligant Hisuian Lilligant,Grass Fighting,3′11″,1.2,42.3,19.2,13.3
+550,Basculin Red-Striped Form,Water,3′03″,1,39.7,18,18
+550,Basculin Blue-Striped Form,Water,3′03″,1,39.7,18,18
+550,Basculin White-Striped Form,Water,3′03″,1,39.7,18,18
+551,Sandile,Ground Dark,2′04″,0.7,33.5,15.2,31
+552,Krokorok,Ground Dark,3′03″,1,73.6,33.4,33.4
+553,Krookodile,Ground Dark,4′11″,1.5,212.3,96.3,42.8
+554,Darumaka,Fire,2′00″,0.6,82.7,37.5,104.2
+554,Darumaka Galarian Darumaka,Ice,2′04″,0.7,88.2,40,81.6
+555,Darmanitan Standard Mode,Fire,4′03″,1.3,204.8,92.9,55
+555,Darmanitan Zen Mode,Fire Psychic,4′03″,1.3,204.8,92.9,55
+555,Darmanitan Galarian Standard Mode,Ice,5′07″,1.7,264.6,120,41.5
+555,Darmanitan Galarian Zen Mode,Ice Fire,5′07″,1.7,264.6,120,41.5
+556,Maractus,Grass,3′03″,1,61.7,28,28
+557,Dwebble,Bug Rock,1′00″,0.3,32,14.5,161.1
+558,Crustle,Bug Rock,4′07″,1.4,440.9,200,102
+559,Scraggy,Dark Fighting,2′00″,0.6,26,11.8,32.8
+560,Scrafty,Dark Fighting,3′07″,1.1,66.1,30,24.8
+561,Sigilyph,Psychic Flying,4′07″,1.4,30.9,14,7.1
+562,Yamask,Ghost,1′08″,0.5,3.3,1.5,6
+562,Yamask Galarian Yamask,Ground Ghost,1′08″,0.5,3.3,1.5,6
+563,Cofagrigus,Ghost,5′07″,1.7,168.7,76.5,26.5
+564,Tirtouga,Water Rock,2′04″,0.7,36.4,16.5,33.7
+565,Carracosta,Water Rock,3′11″,1.2,178.6,81,56.3
+566,Archen,Rock Flying,1′08″,0.5,20.9,9.5,38
+567,Archeops,Rock Flying,4′07″,1.4,70.5,32,16.3
+568,Trubbish,Poison,2′00″,0.6,68.3,31,86.1
+569,Garbodor,Poison,6′03″,1.9,236.6,107.3,29.7
+570,Zorua,Dark,2′04″,0.7,27.6,12.5,25.5
+570,Zorua Hisuian Zorua,Normal Ghost,2′04″,0.7,27.6,12.5,25.5
+571,Zoroark,Dark,5′03″,1.6,178.8,81.1,31.7
+571,Zoroark Hisuian Zoroark,Normal Ghost,5′03″,1.6,160.9,73,28.5
+572,Minccino,Normal,1′04″,0.4,12.8,5.8,36.3
+573,Cinccino,Normal,1′08″,0.5,16.5,7.5,30
+574,Gothita,Psychic,1′04″,0.4,12.8,5.8,36.3
+575,Gothorita,Psychic,2′04″,0.7,39.7,18,36.7
+576,Gothitelle,Psychic,4′11″,1.5,97,44,19.6
+577,Solosis,Psychic,1′00″,0.3,2.2,1,11.1
+578,Duosion,Psychic,2′00″,0.6,17.6,8,22.2
+579,Reuniclus,Psychic,3′03″,1,44.3,20.1,20.1
+580,Ducklett,Water Flying,1′08″,0.5,12.1,5.5,22
+581,Swanna,Water Flying,4′03″,1.3,53.4,24.2,14.3
+582,Vanillite,Ice,1′04″,0.4,12.6,5.7,35.6
+583,Vanillish,Ice,3′07″,1.1,90.4,41,33.9
+584,Vanilluxe,Ice,4′03″,1.3,126.8,57.5,34
+585,Deerling,Normal Grass,2′00″,0.6,43,19.5,54.2
+586,Sawsbuck,Normal Grass,6′03″,1.9,203.9,92.5,25.6
+587,Emolga,Electric Flying,1′04″,0.4,11,5,31.3
+588,Karrablast,Bug,1′08″,0.5,13,5.9,23.6
+589,Escavalier,Bug Steel,3′03″,1,72.8,33,33
+590,Foongus,Grass Poison,0′08″,0.2,2.2,1,25
+591,Amoonguss,Grass Poison,2′00″,0.6,23.1,10.5,29.2
+592,Frillish,Water Ghost,3′11″,1.2,72.8,33,22.9
+593,Jellicent,Water Ghost,7′03″,2.2,297.6,135,27.9
+594,Alomomola,Water,3′11″,1.2,69.7,31.6,21.9
+595,Joltik,Bug Electric,0′04″,0.1,1.3,0.6,60
+596,Galvantula,Bug Electric,2′07″,0.8,31.5,14.3,22.3
+597,Ferroseed,Grass Steel,2′00″,0.6,41.4,18.8,52.2
+598,Ferrothorn,Grass Steel,3′03″,1,242.5,110,110
+599,Klink,Steel,1′00″,0.3,46.3,21,233.3
+600,Klang,Steel,2′00″,0.6,112.4,51,141.7
+601,Klinklang,Steel,2′00″,0.6,178.6,81,225
+602,Tynamo,Electric,0′08″,0.2,0.7,0.3,7.5
+603,Eelektrik,Electric,3′11″,1.2,48.5,22,15.3
+604,Eelektross,Electric,6′11″,2.1,177.5,80.5,18.3
+605,Elgyem,Psychic,1′08″,0.5,19.8,9,36
+606,Beheeyem,Psychic,3′03″,1,76.1,34.5,34.5
+607,Litwick,Ghost Fire,1′00″,0.3,6.8,3.1,34.4
+608,Lampent,Ghost Fire,2′00″,0.6,28.7,13,36.1
+609,Chandelure,Ghost Fire,3′03″,1,75.6,34.3,34.3
+610,Axew,Dragon,2′00″,0.6,39.7,18,50
+611,Fraxure,Dragon,3′03″,1,79.4,36,36
+612,Haxorus,Dragon,5′11″,1.8,232.6,105.5,32.6
+613,Cubchoo,Ice,1′08″,0.5,18.7,8.5,34
+614,Beartic,Ice,8′06″,2.6,573.2,260,38.5
+615,Cryogonal,Ice,3′07″,1.1,326.3,148,122.3
+616,Shelmet,Bug,1′04″,0.4,17,7.7,48.1
+617,Accelgor,Bug,2′07″,0.8,55.8,25.3,39.5
+618,Stunfisk,Ground Electric,2′04″,0.7,24.3,11,22.4
+618,Stunfisk Galarian Stunfisk,Ground Steel,2′04″,0.7,45.2,20.5,41.8
+619,Mienfoo,Fighting,2′11″,0.9,44.1,20,24.7
+620,Mienshao,Fighting,4′07″,1.4,78.3,35.5,18.1
+621,Druddigon,Dragon,5′03″,1.6,306.4,139,54.3
+622,Golett,Ground Ghost,3′03″,1,202.8,92,92
+623,Golurk,Ground Ghost,9′02″,2.8,727.5,330,42.1
+624,Pawniard,Dark Steel,1′08″,0.5,22.5,10.2,40.8
+625,Bisharp,Dark Steel,5′03″,1.6,154.3,70,27.3
+626,Bouffalant,Normal,5′03″,1.6,208.6,94.6,37
+627,Rufflet,Normal Flying,1′08″,0.5,23.1,10.5,42
+628,Braviary,Normal Flying,4′11″,1.5,90.4,41,18.2
+628,Braviary Hisuian Braviary,Psychic Flying,5′07″,1.7,95.7,43.4,15
+629,Vullaby,Dark Flying,1′08″,0.5,19.8,9,36
+630,Mandibuzz,Dark Flying,3′11″,1.2,87.1,39.5,27.4
+631,Heatmor,Fire,4′07″,1.4,127.9,58,29.6
+632,Durant,Bug Steel,1′00″,0.3,72.8,33,366.7
+633,Deino,Dark Dragon,2′07″,0.8,38.1,17.3,27
+634,Zweilous,Dark Dragon,4′07″,1.4,110.2,50,25.5
+635,Hydreigon,Dark Dragon,5′11″,1.8,352.7,160,49.4
+636,Larvesta,Bug Fire,3′07″,1.1,63.5,28.8,23.8
+637,Volcarona,Bug Fire,5′03″,1.6,101.4,46,18
+638,Cobalion,Steel Fighting,6′11″,2.1,551.2,250,56.7
+639,Terrakion,Rock Fighting,6′03″,1.9,573.2,260,72
+640,Virizion,Grass Fighting,6′07″,2,440.9,200,50
+641,Tornadus Incarnate Forme,Flying,4′11″,1.5,138.9,63,28
+641,Tornadus Therian Forme,Flying,4′07″,1.4,138.9,63,32.1
+642,Thundurus Incarnate Forme,Electric Flying,4′11″,1.5,134.5,61,27.1
+642,Thundurus Therian Forme,Electric Flying,9′10″,3,134.5,61,6.8
+643,Reshiram,Dragon Fire,10′06″,3.2,727.5,330,32.2
+644,Zekrom,Dragon Electric,9′06″,2.9,760.6,345,41
+645,Landorus Incarnate Forme,Ground Flying,4′11″,1.5,149.9,68,30.2
+645,Landorus Therian Forme,Ground Flying,4′03″,1.3,149.9,68,40.2
+646,Kyurem,Dragon Ice,9′10″,3,716.5,325,36.1
+646,Kyurem White Kyurem,Dragon Ice,11′10″,3.6,716.5,325,25.1
+646,Kyurem Black Kyurem,Dragon Ice,10′10″,3.3,716.5,325,29.8
+647,Keldeo Ordinary Form,Water Fighting,4′07″,1.4,106.9,48.5,24.7
+647,Keldeo Resolute Form,Water Fighting,4′07″,1.4,106.9,48.5,24.7
+648,Meloetta Aria Forme,Normal Psychic,2′00″,0.6,14.3,6.5,18.1
+648,Meloetta Pirouette Forme,Normal Fighting,2′00″,0.6,14.3,6.5,18.1
+649,Genesect,Bug Steel,4′11″,1.5,181.9,82.5,36.7
+650,Chespin,Grass,1′04″,0.4,19.8,9,56.3
+651,Quilladin,Grass,2′04″,0.7,63.9,29,59.2
+652,Chesnaught,Grass Fighting,5′03″,1.6,198.4,90,35.2
+653,Fennekin,Fire,1′04″,0.4,20.7,9.4,58.8
+654,Braixen,Fire,3′03″,1,32,14.5,14.5
+655,Delphox,Fire Psychic,4′11″,1.5,86,39,17.3
+656,Froakie,Water,1′00″,0.3,15.4,7,77.8
+657,Frogadier,Water,2′00″,0.6,24,10.9,30.3
+658,Greninja,Water Dark,4′11″,1.5,88.2,40,17.8
+658,Greninja Ash-Greninja,Water Dark,4′11″,1.5,88.2,40,17.8
+659,Bunnelby,Normal,1′04″,0.4,11,5,31.3
+660,Diggersby,Normal Ground,3′03″,1,93.5,42.4,42.4
+661,Fletchling,Normal Flying,1′00″,0.3,3.7,1.7,18.9
+662,Fletchinder,Fire Flying,2′04″,0.7,35.3,16,32.7
+663,Talonflame,Fire Flying,3′11″,1.2,54,24.5,17
+664,Scatterbug,Bug,1′00″,0.3,5.5,2.5,27.8
+665,Spewpa,Bug,1′00″,0.3,18.5,8.4,93.3
+666,Vivillon,Bug Flying,3′11″,1.2,37.5,17,11.8
+667,Litleo,Fire Normal,2′00″,0.6,29.8,13.5,37.5
+668,Pyroar,Fire Normal,4′11″,1.5,179.7,81.5,36.2
+669,Flabébé,Fairy,0′04″,0.1,0.2,0.1,10
+670,Floette,Fairy,0′08″,0.2,2,0.9,22.5
+671,Florges,Fairy,3′07″,1.1,22,10,8.3
+672,Skiddo,Grass,2′11″,0.9,68.3,31,38.3
+673,Gogoat,Grass,5′07″,1.7,200.6,91,31.5
+674,Pancham,Fighting,2′00″,0.6,17.6,8,22.2
+675,Pangoro,Fighting Dark,6′11″,2.1,299.8,136,30.8
+676,Furfrou,Normal,3′11″,1.2,61.7,28,19.4
+677,Espurr,Psychic,1′00″,0.3,7.7,3.5,38.9
+678,Meowstic Male,Psychic,2′00″,0.6,18.7,8.5,23.6
+678,Meowstic Female,Psychic,2′00″,0.6,18.7,8.5,23.6
+679,Honedge,Steel Ghost,2′07″,0.8,4.4,2,3.1
+680,Doublade,Steel Ghost,2′07″,0.8,9.9,4.5,7
+681,Aegislash Shield Forme,Steel Ghost,5′07″,1.7,116.8,53,18.3
+681,Aegislash Blade Forme,Steel Ghost,5′07″,1.7,116.8,53,18.3
+682,Spritzee,Fairy,0′08″,0.2,1.1,0.5,12.5
+683,Aromatisse,Fairy,2′07″,0.8,34.2,15.5,24.2
+684,Swirlix,Fairy,1′04″,0.4,7.7,3.5,21.9
+685,Slurpuff,Fairy,2′07″,0.8,11,5,7.8
+686,Inkay,Dark Psychic,1′04″,0.4,7.7,3.5,21.9
+687,Malamar,Dark Psychic,4′11″,1.5,103.6,47,20.9
+688,Binacle,Rock Water,1′08″,0.5,68.3,31,124
+689,Barbaracle,Rock Water,4′03″,1.3,211.6,96,56.8
+690,Skrelp,Poison Water,1′08″,0.5,16.1,7.3,29.2
+691,Dragalge,Poison Dragon,5′11″,1.8,179.7,81.5,25.2
+692,Clauncher,Water,1′08″,0.5,18.3,8.3,33.2
+693,Clawitzer,Water,4′03″,1.3,77.8,35.3,20.9
+694,Helioptile,Electric Normal,1′08″,0.5,13.2,6,24
+695,Heliolisk,Electric Normal,3′03″,1,46.3,21,21
+696,Tyrunt,Rock Dragon,2′07″,0.8,57.3,26,40.6
+697,Tyrantrum,Rock Dragon,8′02″,2.5,595.2,270,43.2
+698,Amaura,Rock Ice,4′03″,1.3,55.6,25.2,14.9
+699,Aurorus,Rock Ice,8′10″,2.7,496,225,30.9
+700,Sylveon,Fairy,3′03″,1,51.8,23.5,23.5
+701,Hawlucha,Fighting Flying,2′07″,0.8,47.4,21.5,33.6
+702,Dedenne,Electric Fairy,0′08″,0.2,4.9,2.2,55
+703,Carbink,Rock Fairy,1′00″,0.3,12.6,5.7,63.3
+704,Goomy,Dragon,1′00″,0.3,6.2,2.8,31.1
+705,Sliggoo,Dragon,2′07″,0.8,38.6,17.5,27.3
+705,Sliggoo Hisuian Sliggoo,Steel Dragon,2′04″,0.7,151,68.5,139.8
+706,Goodra,Dragon,6′07″,2,331.8,150.5,37.6
+706,Goodra Hisuian Goodra,Steel Dragon,5′07″,1.7,736.6,334.1,115.6
+707,Klefki,Steel Fairy,0′08″,0.2,6.6,3,75
+708,Phantump,Ghost Grass,1′04″,0.4,15.4,7,43.8
+709,Trevenant,Ghost Grass,4′11″,1.5,156.5,71,31.6
+710,Pumpkaboo Average Size,Ghost Grass,1′04″,0.4,11,5,31.3
+710,Pumpkaboo Small Size,Ghost Grass,1′00″,0.3,7.7,3.5,38.9
+710,Pumpkaboo Large Size,Ghost Grass,1′08″,0.5,16.5,7.5,30
+710,Pumpkaboo Super Size,Ghost Grass,2′07″,0.8,33.1,15,23.4
+711,Gourgeist Average Size,Ghost Grass,2′11″,0.9,27.6,12.5,15.4
+711,Gourgeist Small Size,Ghost Grass,2′04″,0.7,20.9,9.5,19.4
+711,Gourgeist Large Size,Ghost Grass,3′07″,1.1,30.9,14,11.6
+711,Gourgeist Super Size,Ghost Grass,5′07″,1.7,86,39,13.5
+712,Bergmite,Ice,3′03″,1,219.4,99.5,99.5
+713,Avalugg,Ice,6′07″,2,1113.3,505,126.3
+713,Avalugg Hisuian Avalugg,Ice Rock,4′07″,1.4,578.5,262.4,133.9
+714,Noibat,Flying Dragon,1′08″,0.5,17.6,8,32
+715,Noivern,Flying Dragon,4′11″,1.5,187.4,85,37.8
+716,Xerneas,Fairy,9′10″,3,474,215,23.9
+717,Yveltal,Dark Flying,19′00″,5.8,447.5,203,6
+718,Zygarde 50% Forme,Dragon Ground,16′05″,5,672.4,305,12.2
+718,Zygarde 10% Forme,Dragon Ground,3′11″,1.2,73.9,33.5,23.3
+718,Zygarde Complete Forme,Dragon Ground,14′09″,4.5,1344.8,610,30.1
+719,Diancie,Rock Fairy,2′04″,0.7,19.4,8.8,18
+719,Diancie Mega Diancie,Rock Fairy,3′07″,1.1,61.3,27.8,23
+720,Hoopa Hoopa Confined,Psychic Ghost,1′08″,0.5,19.8,9,36
+720,Hoopa Hoopa Unbound,Psychic Dark,21′04″,6.5,1080.3,490,11.6
+721,Volcanion,Fire Water,5′07″,1.7,429.9,195,67.5
+722,Rowlet,Grass Flying,1′00″,0.3,3.3,1.5,16.7
+723,Dartrix,Grass Flying,2′04″,0.7,35.3,16,32.7
+724,Decidueye,Grass Ghost,5′03″,1.6,80.7,36.6,14.3
+724,Decidueye Hisuian Decidueye,Grass Fighting,5′03″,1.6,81.6,37,14.5
+725,Litten,Fire,1′04″,0.4,9.5,4.3,26.9
+726,Torracat,Fire,2′04″,0.7,55.1,25,51
+727,Incineroar,Fire Dark,5′11″,1.8,183,83,25.6
+728,Popplio,Water,1′04″,0.4,16.5,7.5,46.9
+729,Brionne,Water,2′00″,0.6,38.6,17.5,48.6
+730,Primarina,Water Fairy,5′11″,1.8,97,44,13.6
+731,Pikipek,Normal Flying,1′00″,0.3,2.6,1.2,13.3
+732,Trumbeak,Normal Flying,2′00″,0.6,32.6,14.8,41.1
+733,Toucannon,Normal Flying,3′07″,1.1,57.3,26,21.5
+734,Yungoos,Normal,1′04″,0.4,13.2,6,37.5
+735,Gumshoos,Normal,2′04″,0.7,31.3,14.2,29
+736,Grubbin,Bug,1′04″,0.4,9.7,4.4,27.5
+737,Charjabug,Bug Electric,1′08″,0.5,23.1,10.5,42
+738,Vikavolt,Bug Electric,4′11″,1.5,99.2,45,20
+739,Crabrawler,Fighting,2′00″,0.6,15.4,7,19.4
+740,Crabominable,Fighting Ice,5′07″,1.7,396.8,180,62.3
+741,Oricorio Baile Style,Fire Flying,2′00″,0.6,7.5,3.4,9.4
+741,Oricorio Pom-Pom Style,Electric Flying,2′00″,0.6,7.5,3.4,9.4
+741,Oricorio Pa'u Style,Psychic Flying,2′00″,0.6,7.5,3.4,9.4
+741,Oricorio Sensu Style,Ghost Flying,2′00″,0.6,7.5,3.4,9.4
+742,Cutiefly,Bug Fairy,0′04″,0.1,0.4,0.2,20
+743,Ribombee,Bug Fairy,0′08″,0.2,1.1,0.5,12.5
+744,Rockruff,Rock,1′08″,0.5,20.3,9.2,36.8
+744,Rockruff Own Tempo Rockruff,Rock,1′08″,0.5,20.3,9.2,36.8
+745,Lycanroc Midday Form,Rock,2′07″,0.8,55.1,25,39.1
+745,Lycanroc Midnight Form,Rock,3′07″,1.1,55.1,25,20.7
+745,Lycanroc Dusk Form,Rock,2′07″,0.8,55.1,25,39.1
+746,Wishiwashi Solo Form,Water,0′08″,0.2,0.7,0.3,7.5
+746,Wishiwashi School Form,Water,26′11″,8.2,173.3,78.6,1.2
+747,Mareanie,Poison Water,1′04″,0.4,17.6,8,50
+748,Toxapex,Poison Water,2′04″,0.7,32,14.5,29.6
+749,Mudbray,Ground,3′03″,1,242.5,110,110
+750,Mudsdale,Ground,8′02″,2.5,2028.3,920,147.2
+751,Dewpider,Water Bug,1′00″,0.3,8.8,4,44.4
+752,Araquanid,Water Bug,5′11″,1.8,180.8,82,25.3
+753,Fomantis,Grass,1′00″,0.3,3.3,1.5,16.7
+754,Lurantis,Grass,2′11″,0.9,40.8,18.5,22.8
+755,Morelull,Grass Fairy,0′08″,0.2,3.3,1.5,37.5
+756,Shiinotic,Grass Fairy,3′03″,1,25.4,11.5,11.5
+757,Salandit,Poison Fire,2′00″,0.6,10.6,4.8,13.3
+758,Salazzle,Poison Fire,3′11″,1.2,48.9,22.2,15.4
+759,Stufful,Normal Fighting,1′08″,0.5,15,6.8,27.2
+760,Bewear,Normal Fighting,6′11″,2.1,297.6,135,30.6
+761,Bounsweet,Grass,1′00″,0.3,7.1,3.2,35.6
+762,Steenee,Grass,2′04″,0.7,18.1,8.2,16.7
+763,Tsareena,Grass,3′11″,1.2,47.2,21.4,14.9
+764,Comfey,Fairy,0′04″,0.1,0.7,0.3,30
+765,Oranguru,Normal Psychic,4′11″,1.5,167.6,76,33.8
+766,Passimian,Fighting,6′07″,2,182.5,82.8,20.7
+767,Wimpod,Bug Water,1′08″,0.5,26.5,12,48
+768,Golisopod,Bug Water,6′07″,2,238.1,108,27
+769,Sandygast,Ghost Ground,1′08″,0.5,154.3,70,280
+770,Palossand,Ghost Ground,4′03″,1.3,551.2,250,147.9
+771,Pyukumuku,Water,1′00″,0.3,2.6,1.2,13.3
+772,Type: Null,Normal,6′03″,1.9,265.7,120.5,33.4
+773,Silvally,Normal,7′07″,2.3,221.6,100.5,19
+774,Minior Meteor Form,Rock Flying,1′00″,0.3,88.2,40,444.4
+774,Minior Core Form,Rock Flying,1′00″,0.3,0.7,0.3,3.3
+775,Komala,Normal,1′04″,0.4,43.9,19.9,124.4
+776,Turtonator,Fire Dragon,6′07″,2,467.4,212,53
+777,Togedemaru,Electric Steel,1′00″,0.3,7.3,3.3,36.7
+778,Mimikyu,Ghost Fairy,0′08″,0.2,1.5,0.7,17.5
+779,Bruxish,Water Psychic,2′11″,0.9,41.9,19,23.5
+780,Drampa,Normal Dragon,9′10″,3,407.9,185,20.6
+781,Dhelmise,Ghost Grass,12′10″,3.9,463,210,13.8
+782,Jangmo-o,Dragon,2′00″,0.6,65.5,29.7,82.5
+783,Hakamo-o,Dragon Fighting,3′11″,1.2,103.6,47,32.6
+784,Kommo-o,Dragon Fighting,5′03″,1.6,172.4,78.2,30.5
+785,Tapu Koko,Electric Fairy,5′11″,1.8,45.2,20.5,6.3
+786,Tapu Lele,Psychic Fairy,3′11″,1.2,41,18.6,12.9
+787,Tapu Bulu,Grass Fairy,6′03″,1.9,100.3,45.5,12.6
+788,Tapu Fini,Water Fairy,4′03″,1.3,46.7,21.2,12.5
+789,Cosmog,Psychic,0′08″,0.2,0.2,0.1,2.5
+790,Cosmoem,Psychic,0′04″,0.1,2204.4,999.9,99990
+791,Solgaleo,Psychic Steel,11′02″,3.4,507.1,230,19.9
+792,Lunala,Psychic Ghost,13′01″,4,264.6,120,7.5
+793,Nihilego,Rock Poison,3′11″,1.2,122.4,55.5,38.5
+794,Buzzwole,Bug Fighting,7′10″,2.4,735.5,333.6,57.9
+795,Pheromosa,Bug Fighting,5′11″,1.8,55.1,25,7.7
+796,Xurkitree,Electric,12′06″,3.8,220.5,100,6.9
+797,Celesteela,Steel Flying,30′02″,9.2,2204.4,999.9,11.8
+798,Kartana,Grass Steel,1′00″,0.3,0.2,0.1,1.1
+799,Guzzlord,Dark Dragon,18′01″,5.5,1957.7,888,29.4
+800,Necrozma,Psychic,7′10″,2.4,507.1,230,39.9
+800,Necrozma Dusk Mane Necrozma,Psychic Steel,12′06″,3.8,1014.1,460,31.9
+800,Necrozma Dawn Wings Necrozma,Psychic Ghost,13′09″,4.2,771.6,350,19.8
+800,Necrozma Ultra Necrozma,Psychic Dragon,24′07″,7.5,507.1,230,4.1
+801,Magearna,Steel Fairy,3′03″,1,177.5,80.5,80.5
+802,Marshadow,Fighting Ghost,2′04″,0.7,48.9,22.2,45.3
+803,Poipole,Poison,2′00″,0.6,4,1.8,5
+804,Naganadel,Poison Dragon,11′10″,3.6,330.7,150,11.6
+805,Stakataka,Rock Steel,18′01″,5.5,1807.8,820,27.1
+806,Blacephalon,Fire Ghost,5′11″,1.8,28.7,13,4
+807,Zeraora,Electric,4′11″,1.5,98.1,44.5,19.8
+808,Meltan,Steel,0′08″,0.2,17.6,8,200
+809,Melmetal,Steel,8′02″,2.5,1763.7,800,128
+810,Grookey,Grass,1′00″,0.3,11,5,55.6
+811,Thwackey,Grass,2′04″,0.7,30.9,14,28.6
+812,Rillaboom,Grass,6′11″,2.1,198.4,90,20.4
+813,Scorbunny,Fire,1′00″,0.3,9.9,4.5,50
+814,Raboot,Fire,2′00″,0.6,19.8,9,25
+815,Cinderace,Fire,4′07″,1.4,72.8,33,16.8
+816,Sobble,Water,1′00″,0.3,8.8,4,44.4
+817,Drizzile,Water,2′04″,0.7,25.4,11.5,23.5
+818,Inteleon,Water,6′03″,1.9,99.6,45.2,12.5
+819,Skwovet,Normal,1′00″,0.3,5.5,2.5,27.8
+820,Greedent,Normal,2′00″,0.6,13.2,6,16.7
+821,Rookidee,Flying,0′08″,0.2,4,1.8,45
+822,Corvisquire,Flying,2′07″,0.8,35.3,16,25
+823,Corviknight,Flying Steel,7′03″,2.2,165.3,75,15.5
+824,Blipbug,Bug,1′04″,0.4,17.6,8,50
+825,Dottler,Bug Psychic,1′04″,0.4,43,19.5,121.9
+826,Orbeetle,Bug Psychic,1′04″,0.4,89.9,40.8,255
+827,Nickit,Dark,2′00″,0.6,19.6,8.9,24.7
+828,Thievul,Dark,3′11″,1.2,43.9,19.9,13.8
+829,Gossifleur,Grass,1′04″,0.4,4.9,2.2,13.8
+830,Eldegoss,Grass,1′08″,0.5,5.5,2.5,10
+831,Wooloo,Normal,2′00″,0.6,13.2,6,16.7
+832,Dubwool,Normal,4′03″,1.3,94.8,43,25.4
+833,Chewtle,Water,1′00″,0.3,18.7,8.5,94.4
+834,Drednaw,Water Rock,3′03″,1,254.6,115.5,115.5
+835,Yamper,Electric,1′00″,0.3,29.8,13.5,150
+836,Boltund,Electric,3′03″,1,75,34,34
+837,Rolycoly,Rock,1′00″,0.3,26.5,12,133.3
+838,Carkol,Rock Fire,3′07″,1.1,172,78,64.5
+839,Coalossal,Rock Fire,9′02″,2.8,684.5,310.5,39.6
+840,Applin,Grass Dragon,0′08″,0.2,1.1,0.5,12.5
+841,Flapple,Grass Dragon,1′00″,0.3,2.2,1,11.1
+842,Appletun,Grass Dragon,1′04″,0.4,28.7,13,81.3
+843,Silicobra,Ground,7′03″,2.2,16.8,7.6,1.6
+844,Sandaconda,Ground,12′06″,3.8,144.4,65.5,4.5
+845,Cramorant,Flying Water,2′07″,0.8,39.7,18,28.1
+846,Arrokuda,Water,1′08″,0.5,2.2,1,4
+847,Barraskewda,Water,4′03″,1.3,66.1,30,17.8
+848,Toxel,Electric Poison,1′04″,0.4,24.3,11,68.8
+849,Toxtricity Amped Form,Electric Poison,5′03″,1.6,88.2,40,15.6
+849,Toxtricity Low Key Form,Electric Poison,5′03″,1.6,88.2,40,15.6
+850,Sizzlipede,Fire Bug,2′04″,0.7,2.2,1,2
+851,Centiskorch,Fire Bug,9′10″,3,264.6,120,13.3
+852,Clobbopus,Fighting,2′00″,0.6,8.8,4,11.1
+853,Grapploct,Fighting,5′03″,1.6,86,39,15.2
+854,Sinistea,Ghost,0′04″,0.1,0.4,0.2,20
+855,Polteageist,Ghost,0′08″,0.2,0.9,0.4,10
+856,Hatenna,Psychic,1′04″,0.4,7.5,3.4,21.3
+857,Hattrem,Psychic,2′00″,0.6,10.6,4.8,13.3
+858,Hatterene,Psychic Fairy,6′11″,2.1,11.2,5.1,1.2
+859,Impidimp,Dark Fairy,1′04″,0.4,12.1,5.5,34.4
+860,Morgrem,Dark Fairy,2′07″,0.8,27.6,12.5,19.5
+861,Grimmsnarl,Dark Fairy,4′11″,1.5,134.5,61,27.1
+862,Obstagoon,Dark Normal,5′03″,1.6,101.4,46,18
+863,Perrserker,Steel,2′07″,0.8,61.7,28,43.8
+864,Cursola,Ghost,3′03″,1,0.9,0.4,0.4
+865,Sirfetch'd,Fighting,2′07″,0.8,257.9,117,182.8
+866,Mr. Rime,Ice Psychic,4′11″,1.5,128.3,58.2,25.9
+867,Runerigus,Ground Ghost,5′03″,1.6,146.8,66.6,26
+868,Milcery,Fairy,0′08″,0.2,0.7,0.3,7.5
+869,Alcremie,Fairy,1′00″,0.3,1.1,0.5,5.6
+870,Falinks,Fighting,9′10″,3,136.7,62,6.9
+871,Pincurchin,Electric,1′00″,0.3,2.2,1,11.1
+872,Snom,Ice Bug,1′00″,0.3,8.4,3.8,42.2
+873,Frosmoth,Ice Bug,4′03″,1.3,92.6,42,24.9
+874,Stonjourner,Rock,8′02″,2.5,1146.4,520,83.2
+875,Eiscue Ice Face,Ice,4′07″,1.4,196.2,89,45.4
+875,Eiscue Noice Face,Ice,4′07″,1.4,196.2,89,45.4
+876,Indeedee Male,Psychic Normal,2′11″,0.9,61.7,28,34.6
+876,Indeedee Female,Psychic Normal,2′11″,0.9,61.7,28,34.6
+877,Morpeko Full Belly Mode,Electric Dark,1′00″,0.3,6.6,3,33.3
+877,Morpeko Hangry Mode,Electric Dark,1′00″,0.3,6.6,3,33.3
+878,Cufant,Steel,3′11″,1.2,220.5,100,69.4
+879,Copperajah,Steel,9′10″,3,1433,650,72.2
+880,Dracozolt,Electric Dragon,5′11″,1.8,418.9,190,58.6
+881,Arctozolt,Electric Ice,7′07″,2.3,330.7,150,28.4
+882,Dracovish,Water Dragon,7′07″,2.3,474,215,40.6
+883,Arctovish,Water Ice,6′07″,2,385.8,175,43.8
+884,Duraludon,Steel Dragon,5′11″,1.8,88.2,40,12.3
+885,Dreepy,Dragon Ghost,1′08″,0.5,4.4,2,8
+886,Drakloak,Dragon Ghost,4′07″,1.4,24.3,11,5.6
+887,Dragapult,Dragon Ghost,9′10″,3,110.2,50,5.6
+888,Zacian Hero of Many Battles,Fairy,9′02″,2.8,242.5,110,14
+888,Zacian Crowned Sword,Fairy Steel,9′02″,2.8,782.6,355,45.3
+889,Zamazenta Hero of Many Battles,Fighting,9′06″,2.9,463,210,25
+889,Zamazenta Crowned Shield,Fighting Steel,9′06″,2.9,1730.6,785,93.3
+890,Eternatus,Poison Dragon,65′07″,20,2094.4,950,2.4
+891,Kubfu,Fighting,2′00″,0.6,26.5,12,33.3
+892,Urshifu Single Strike Style,Fighting Dark,6′03″,1.9,231.5,105,29.1
+892,Urshifu Rapid Strike Style,Fighting Water,6′03″,1.9,231.5,105,29.1
+893,Zarude,Dark Grass,5′11″,1.8,154.3,70,21.6
+894,Regieleki,Electric,3′11″,1.2,319.7,145,100.7
+895,Regidrago,Dragon,6′11″,2.1,440.9,200,45.4
+896,Glastrier,Ice,7′03″,2.2,1763.7,800,165.3
+897,Spectrier,Ghost,6′07″,2,98.1,44.5,11.1
+898,Calyrex,Psychic Grass,3′07″,1.1,17,7.7,6.4
+898,Calyrex Ice Rider,Psychic Ice,7′10″,2.4,1783.8,809.1,140.5
+898,Calyrex Shadow Rider,Psychic Ghost,7′10″,2.4,118.2,53.6,9.3
+899,Wyrdeer,Normal Psychic,5′11″,1.8,209.7,95.1,29.4
+900,Kleavor,Bug Rock,5′11″,1.8,196.2,89,27.5
+901,Ursaluna,Ground Normal,7′10″,2.4,639.3,290,50.3
+901,Ursaluna Bloodmoon,Ground Normal,8′10″,2.7,734.1,333,45.7
+902,Basculegion Male,Water Ghost,9′10″,3,242.5,110,12.2
+902,Basculegion Female,Water Ghost,9′10″,3,242.5,110,12.2
+903,Sneasler,Fighting Poison,4′03″,1.3,94.8,43,25.4
+904,Overqwil,Dark Poison,8′02″,2.5,133.4,60.5,9.7
+905,Enamorus Incarnate Forme,Fairy Flying,5′03″,1.6,105.8,48,18.8
+905,Enamorus Therian Forme,Fairy Flying,5′03″,1.6,105.8,48,18.8
+906,Sprigatito,Grass,1′04″,0.4,9,4.1,25.6
+907,Floragato,Grass,2′11″,0.9,26.9,12.2,15.1
+908,Meowscarada,Grass Dark,4′11″,1.5,68.8,31.2,13.9
+909,Fuecoco,Fire,1′04″,0.4,21.6,9.8,61.3
+910,Crocalor,Fire,3′03″,1,67.7,30.7,30.7
+911,Skeledirge,Fire Ghost,5′03″,1.6,719.8,326.5,127.5
+912,Quaxly,Water,1′08″,0.5,13.4,6.1,24.4
+913,Quaxwell,Water,3′11″,1.2,47.4,21.5,14.9
+914,Quaquaval,Water Fighting,5′11″,1.8,136.5,61.9,19.1
+915,Lechonk,Normal,1′08″,0.5,22.5,10.2,40.8
+916,Oinkologne Male,Normal,3′03″,1,264.6,120,120
+916,Oinkologne Female,Normal,3′03″,1,264.6,120,120
+917,Tarountula,Bug,1′00″,0.3,8.8,4,44.4
+918,Spidops,Bug,3′03″,1,36.4,16.5,16.5
+919,Nymble,Bug,0′08″,0.2,2.2,1,25
+920,Lokix,Bug Dark,3′03″,1,38.6,17.5,17.5
+921,Pawmi,Electric,1′00″,0.3,5.5,2.5,27.8
+922,Pawmo,Electric Fighting,1′04″,0.4,14.3,6.5,40.6
+923,Pawmot,Electric Fighting,2′11″,0.9,90.4,41,50.6
+924,Tandemaus,Normal,1′00″,0.3,4,1.8,20
+925,Maushold Family of Four,Normal,1′00″,0.3,6.2,2.8,31.1
+925,Maushold Family of Three,Normal,1′00″,0.3,5.1,2.3,25.6
+926,Fidough,Fairy,1′00″,0.3,24,10.9,121.1
+927,Dachsbun,Fairy,1′08″,0.5,32.8,14.9,59.6
+928,Smoliv,Grass Normal,1′00″,0.3,14.3,6.5,72.2
+929,Dolliv,Grass Normal,2′00″,0.6,26.2,11.9,33.1
+930,Arboliva,Grass Normal,4′07″,1.4,106.3,48.2,24.6
+931,Squawkabilly Green Plumage,Normal Flying,2′00″,0.6,5.3,2.4,6.7
+931,Squawkabilly Blue Plumage,Normal Flying,2′00″,0.6,5.3,2.4,6.7
+931,Squawkabilly Yellow Plumage,Normal Flying,2′00″,0.6,5.3,2.4,6.7
+931,Squawkabilly White Plumage,Normal Flying,2′00″,0.6,5.3,2.4,6.7
+932,Nacli,Rock,1′04″,0.4,35.3,16,100
+933,Naclstack,Rock,2′00″,0.6,231.5,105,291.7
+934,Garganacl,Rock,7′07″,2.3,529.1,240,45.4
+935,Charcadet,Fire,2′00″,0.6,23.1,10.5,29.2
+936,Armarouge,Fire Psychic,4′11″,1.5,187.4,85,37.8
+937,Ceruledge,Fire Ghost,5′03″,1.6,136.7,62,24.2
+938,Tadbulb,Electric,1′00″,0.3,0.9,0.4,4.4
+939,Bellibolt,Electric,3′11″,1.2,249.1,113,78.5
+940,Wattrel,Electric Flying,1′04″,0.4,7.9,3.6,22.5
+941,Kilowattrel,Electric Flying,4′07″,1.4,85.1,38.6,19.7
+942,Maschiff,Dark,1′08″,0.5,35.3,16,64
+943,Mabosstiff,Dark,3′07″,1.1,134.5,61,50.4
+944,Shroodle,Poison Normal,0′08″,0.2,1.5,0.7,17.5
+945,Grafaiai,Poison Normal,2′04″,0.7,60,27.2,55.5
+946,Bramblin,Grass Ghost,2′00″,0.6,1.3,0.6,1.7
+947,Brambleghast,Grass Ghost,3′11″,1.2,13.2,6,4.2
+948,Toedscool,Ground Grass,2′11″,0.9,72.8,33,40.7
+949,Toedscruel,Ground Grass,6′03″,1.9,127.9,58,16.1
+950,Klawf,Rock,4′03″,1.3,174.2,79,46.7
+951,Capsakid,Grass,1′00″,0.3,6.6,3,33.3
+952,Scovillain,Grass Fire,2′11″,0.9,33.1,15,18.5
+953,Rellor,Bug,0′08″,0.2,2.2,1,25
+954,Rabsca,Bug Psychic,1′00″,0.3,7.7,3.5,38.9
+955,Flittle,Psychic,0′08″,0.2,3.3,1.5,37.5
+956,Espathra,Psychic,6′03″,1.9,198.4,90,24.9
+957,Tinkatink,Fairy Steel,1′04″,0.4,19.6,8.9,55.6
+958,Tinkatuff,Fairy Steel,2′04″,0.7,130.3,59.1,120.6
+959,Tinkaton,Fairy Steel,2′04″,0.7,248.7,112.8,230.2
+960,Wiglett,Water,3′11″,1.2,4,1.8,1.3
+961,Wugtrio,Water,3′11″,1.2,11.9,5.4,3.8
+962,Bombirdier,Flying Dark,4′11″,1.5,94.6,42.9,19.1
+963,Finizen,Water,4′03″,1.3,132.7,60.2,35.6
+964,Palafin Zero Form,Water,4′03″,1.3,132.7,60.2,35.6
+964,Palafin Hero Form,Water,5′11″,1.8,214.7,97.4,30.1
+965,Varoom,Steel Poison,3′03″,1,77.2,35,35
+966,Revavroom,Steel Poison,5′11″,1.8,264.6,120,37
+967,Cyclizar,Dragon Normal,5′03″,1.6,138.9,63,24.6
+968,Orthworm,Steel,8′02″,2.5,683.4,310,49.6
+969,Glimmet,Rock Poison,2′04″,0.7,17.6,8,16.3
+970,Glimmora,Rock Poison,4′11″,1.5,99.2,45,20
+971,Greavard,Ghost,2′00″,0.6,77.2,35,97.2
+972,Houndstone,Ghost,6′07″,2,33.1,15,3.8
+973,Flamigo,Flying Fighting,5′03″,1.6,81.6,37,14.5
+974,Cetoddle,Ice,3′11″,1.2,99.2,45,31.3
+975,Cetitan,Ice,14′09″,4.5,1543.2,700,34.6
+976,Veluza,Water Psychic,8′02″,2.5,198.4,90,14.4
+977,Dondozo,Water,39′04″,12,485,220,1.5
+978,Tatsugiri Curly Form,Dragon Water,1′00″,0.3,17.6,8,88.9
+978,Tatsugiri Droopy Form,Dragon Water,1′00″,0.3,17.6,8,88.9
+978,Tatsugiri Stretchy Form,Dragon Water,1′00″,0.3,17.6,8,88.9
+979,Annihilape,Fighting Ghost,3′11″,1.2,123.5,56,38.9
+980,Clodsire,Poison Ground,5′11″,1.8,491.6,223,68.8
+981,Farigiraf,Normal Psychic,10′06″,3.2,352.7,160,15.6
+982,Dudunsparce Two-Segment Form,Normal,11′10″,3.6,86.4,39.2,3
+982,Dudunsparce Three-Segment Form,Normal,14′09″,4.5,104.5,47.4,2.3
+983,Kingambit,Dark Steel,6′07″,2,264.6,120,30
+984,Great Tusk,Ground Fighting,7′03″,2.2,705.5,320,66.1
+985,Scream Tail,Fairy Psychic,3′11″,1.2,17.6,8,5.6
+986,Brute Bonnet,Grass Dark,3′11″,1.2,46.3,21,14.6
+987,Flutter Mane,Ghost Fairy,4′07″,1.4,8.8,4,2
+988,Slither Wing,Bug Fighting,10′06″,3.2,202.8,92,9
+989,Sandy Shocks,Electric Ground,7′07″,2.3,132.3,60,11.3
+990,Iron Treads,Ground Steel,2′11″,0.9,529.1,240,296.3
+991,Iron Bundle,Ice Water,2′00″,0.6,24.3,11,30.6
+992,Iron Hands,Fighting Electric,5′11″,1.8,839.3,380.7,117.5
+993,Iron Jugulis,Dark Flying,4′03″,1.3,244.7,111,65.7
+994,Iron Moth,Fire Poison,3′11″,1.2,79.4,36,25
+995,Iron Thorns,Rock Electric,5′03″,1.6,668,303,118.4
+996,Frigibax,Dragon Ice,1′08″,0.5,37.5,17,68
+997,Arctibax,Dragon Ice,2′07″,0.8,66.1,30,46.9
+998,Baxcalibur,Dragon Ice,6′11″,2.1,463,210,47.6
+999,Gimmighoul Chest Form,Ghost,1′00″,0.3,11,5,55.6
+999,Gimmighoul Roaming Form,Ghost,0′04″,0.1,0.2,0.1,10
+1000,Gholdengo,Steel Ghost,3′11″,1.2,66.1,30,20.8
+1001,Wo-Chien,Dark Grass,4′11″,1.5,163.6,74.2,33
+1002,Chien-Pao,Dark Ice,6′03″,1.9,335.5,152.2,42.2
+1003,Ting-Lu,Dark Ground,8′10″,2.7,1542.6,699.7,96
+1004,Chi-Yu,Dark Fire,1′04″,0.4,10.8,4.9,30.6
+1005,Roaring Moon,Dragon Dark,6′07″,2,837.8,380,95
+1006,Iron Valiant,Fairy Fighting,4′07″,1.4,77.2,35,17.9
+1007,Koraidon,Fighting Dragon,8′02″,2.5,668,303,48.5
+1008,Miraidon,Electric Dragon,11′06″,3.5,529.1,240,19.6
+1009,Walking Wake,Water Dragon,11′06″,3.5,617.3,280,22.9
+1010,Iron Leaves,Grass Psychic,4′11″,1.5,275.6,125,55.6
+1011,Dipplin,Grass Dragon,1′04″,0.4,9.7,4.4,27.5
+1012,Poltchageist,Grass Ghost,0′04″,0.1,2.4,1.1,110
+1013,Sinistcha,Grass Ghost,0′08″,0.2,4.9,2.2,55
+1014,Okidogi,Poison Fighting,5′11″,1.8,202.8,92,28.4
+1015,Munkidori,Poison Psychic,3′03″,1,26.9,12.2,12.2
+1016,Fezandipiti,Poison Fairy,4′07″,1.4,66.4,30.1,15.4
+1017,Ogerpon Teal Mask,Grass,3′11″,1.2,87.7,39.8,27.6
+1017,Ogerpon Wellspring Mask,Grass Water,3′11″,1.2,87.7,39.8,27.6
+1017,Ogerpon Hearthflame Mask,Grass Fire,3′11″,1.2,87.7,39.8,27.6
+1017,Ogerpon Cornerstone Mask,Grass Rock,3′11″,1.2,87.7,39.8,27.6
+1018,Archaludon,Steel Dragon,6′07″,2,132.3,60,15
+1019,Hydrapple,Grass Dragon,5′11″,1.8,205,93,28.7
+1020,Gouging Fire,Fire Dragon,11′06″,3.5,1300.7,590,48.2
+1021,Raging Bolt,Electric Dragon,17′01″,5.2,1058.2,480,17.8
+1022,Iron Boulder,Rock Psychic,4′11″,1.5,358.3,162.5,72.2
+1023,Iron Crown,Steel Psychic,5′03″,1.6,343.9,156,60.9
+1024,Terapagos Normal Form,Normal,0′08″,0.2,14.3,6.5,162.5
+1024,Terapagos Terastal Form,Normal,1′00″,0.3,35.3,16,177.8
+1024,Terapagos Stellar Form,Normal,5′07″,1.7,169.8,77,26.6
+1025,Pecharunt,Poison Ghost,1′00″,0.3,0.7,0.3,3.3

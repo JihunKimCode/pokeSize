@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Height & Weight Matcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Find Your Matching Pokémon</h1>
+        
+        <label for="unit">Select Unit:</label>
+        <select id="unit">
+            <option value="metric">Meters & Kilograms</option>
+            <option value="imperial">Feet/Inches & Pounds</option>
+        </select>
+
+        <div id="imperial-inputs" style="display: none;">
+            <label>Height:</label>
+            <input type="number" id="feet" placeholder="Feet" min="0">
+            <input type="number" id="inches" placeholder="Inches" min="0" max="11">
+            <label>Weight (lbs):</label>
+            <input type="number" id="weight-lbs" placeholder="Weight in lbs">
+        </div>
+
+        <div id="metric-inputs">
+            <label>Height (m):</label>
+            <input type="number" id="height-m" placeholder="Height in meters" step="0.01">
+            <label>Weight (kg):</label>
+            <input type="number" id="weight-kg" placeholder="Weight in kg" step="0.1">
+        </div>
+
+        <button onclick="findPokemon()">Search</button>
+
+        <div id="result" class="result-container" style="display: none;"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
